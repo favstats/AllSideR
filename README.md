@@ -1,4 +1,6 @@
 
+Latest Data Update: 2019-10-18
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # AllSideR
@@ -8,28 +10,103 @@
 <!-- badges: end -->
 
 The goal of AllSideR is to provide you with the
-[AllSides.com](AllSides.com) Media Bias rating dataset.
+[AllSides.com](https://www.allsides.com/media-bias/media-bias-ratings)
+Media Bias rating dataset.
 
-## Load Dataset
+From AllSides.com:
+
+> Our Media Bias Ratings are determined using multiple methods and
+> represent the average judgment of Americans. They are based on blind
+> surveys of people across the political spectrum, multi-partisan
+> analysis, editorial reviews, third party data, and tens of thousands
+> of user feedback ratings. Our scientifically-generated ratings are
+> fluid and subject to change as new information is gathered and biases
+> change over time.
+
+![](https://www.allsides.com/sites/default/files/AllSidesMediaBiasChart-Version1.1_0.jpg)
+
+The dataset looks like this:
+
+<!-- # ```{r} -->
+
+<!-- # readRDS("data/allsides_data.RDS") %>%  -->
+
+<!-- #   dplyr::select(news_source, rating, rating_num, type, agree, disagree, perc_agree, dplyr::everything(), -community_feedback) -> allsides_data -->
+
+<!-- #  -->
+
+<!-- # tidytemplate::save_it(allsides_data) -->
+
+<!-- #  -->
+
+<!-- # readr::write_csv(allsides_data, path = "data/allsides_data.csv") -->
+
+<!-- #  -->
+
+<!-- # usethis::use_data(allsides_data) -->
+
+<!-- # ``` -->
+
+  - `news_source`: Rated entity
+  - `rating`: AllSides Rating (left, left-center, center, right-center,
+    right, allsides)
+  - `rating_num`: Same as `rating` but numeric
+  - `type`: News entity type (can be news media, author or think
+    tank/policy group)
+  - `agree`: Number of people who agree with the rating
+  - `disagree`: Number of people who disagree with the rating
+  - `perc_agree`: Percentage of people who agree with the rating
+  - `url`: URL with more Info
+  - `editorial_review`: Was there an editorial review of the rating?
+    (0/1)
+  - `blind_survey`: Blind survey conducted? (0/1)
+  - `third_party_analysis`: Based on third-party analysis? (0/1)
+  - `independent_research`: Based on ndependent research? (0/1)
+  - `confidence_level`: The confidence of the rating (Low or Initial
+    Rating , Medium, High)
+  - `twitter`: URL to Twitter account (when provided)
+  - `wiki`: URL to Wikipedia article (when provided)
+  - `facebook`: URL to Facebook page (when provided)
+  - `screen_name`: Twitter screen name
+
+## Get Dataset
+
+Either Download data from GitHub Repo like this:
 
 ``` r
-library(tidyverse)
+allsides_data <- readr::read_csv("https://raw.githubusercontent.com/favstats/AllSideR/master/data/allsides_data.csv")
 
-allsides_data <- read_rds("data/allsides_data.RDS")
-
-allsides_data %>% 
-  head() %>% 
-  knitr::kable()
+allsides_data
+#> # A tibble: 547 x 18
+#>    news_source agree disagree rating url   perc_agree rating_num type 
+#>    <chr>       <dbl>    <dbl> <chr>  <chr>      <dbl>      <dbl> <chr>
+#>  1 AARP         1404     2343 center http…      0.375          3 Thin…
+#>  2 ABC News    13793     9409 left-… http…      0.594          2 News…
+#>  3 Abridge Ne…    31       17 allsi… http…      0.646         NA News…
+#>  4 Accuracy i…   743      444 right  http…      0.626          5 Thin…
+#>  5 ACLU         1272     1697 left-… http…      0.428          2 Thin…
+#>  6 AJ+            13        5 left   http…      0.722          1 News…
+#>  7 Al Cardenas   353      238 right  http…      0.597          5 Auth…
+#>  8 Al Jazeera   3707     6138 left-… http…      0.377          2 News…
+#>  9 AllSides     3301     1308 allsi… http…      0.716         NA News…
+#> 10 AllSides C…  2142     1273 allsi… http…      0.627         NA News…
+#> # … with 537 more rows, and 10 more variables: editorial_review <chr>,
+#> #   community_feedback <dbl>, blind_survey <dbl>,
+#> #   third_party_analysis <dbl>, independent_research <dbl>,
+#> #   confidence_level <chr>, twitter <chr>, wiki <chr>, facebook <chr>,
+#> #   screen_name <chr>
 ```
 
-| news\_source      | agree | disagree | rating      | url                                                                   | perc\_agree | rating\_num | type                      | editorial\_review | community\_feedback | blind\_survey | third\_party\_analysis | independent\_research | confidence\_level     | twitter                            | wiki                                                           | facebook                               | screen\_name  |
-| :---------------- | ----: | -------: | :---------- | :-------------------------------------------------------------------- | ----------: | ----------: | :------------------------ | :---------------- | :------------------ | :------------ | :--------------------- | :-------------------- | :-------------------- | :--------------------------------- | :------------------------------------------------------------- | :------------------------------------- | :------------ |
-| AARP              |  1404 |     2343 | center      | <https://www.allsides.com/news-source/aarp-media-bias>                |   0.3746998 |           3 | Think Tank / Policy Group | 0                 | 0                   | 0             | 0                      | 0                     | NA                    | <https://twitter.com/AARP>         | <https://en.wikipedia.org/wiki/AARP>                           | NA                                     | AARP          |
-| ABC News          | 13793 |     9409 | left-center | <https://www.allsides.com/news-source/abc-news-media-bias>            |   0.5944746 |           2 | News Media                | 0                 | 0                   | 1             | 1                      | 1                     | High                  | <https://twitter.com/ABC>          | <https://en.wikipedia.org/wiki/ABC_News>                       | <https://www.facebook.com/ABCNews/>    | ABC           |
-| Abridge News      |    31 |       17 | allsides    | <https://www.allsides.com/news-source/abridge-news-media-bias>        |   0.6458333 |          NA | News Media                | 0                 | 0                   | 0             | 0                      | 1                     | High                  | <https://twitter.com/Abridge_News> | NA                                                             | <https://www.facebook.com/AbridgeNews> | Abridge\_News |
-| Accuracy in Media |   743 |      444 | right       | <https://www.allsides.com/news-source/accuracy-media>                 |   0.6259478 |           5 | Think Tank / Policy Group | 0                 | 0                   | 0             | 0                      | 1                     | Medium                | NA                                 | <https://en.wikipedia.org/wiki/Accuracy_in_Media>              | NA                                     | NA            |
-| ACLU              |  1272 |     1697 | left-center | <https://www.allsides.com/news-source/american-civil-liberties-union> |   0.4284271 |           2 | Think Tank / Policy Group | 0                 | 0                   | 0             | 0                      | 0                     | NA                    | <https://twitter.com/@ACLU>        | <https://en.wikipedia.org/wiki/American_Civil_Liberties_Union> | <https://www.facebook.com/aclu/>       | ACLU          |
-| AJ+               |    13 |        5 | left        | <https://www.allsides.com/news-source/aj-media-bias>                  |   0.7222222 |           1 | News Media                | 0                 | 0                   | 0             | 0                      | 1                     | Low or Initial Rating | NA                                 | NA                                                             | NA                                     | NA            |
+Or install package and use it from there:
+
+``` r
+devtools::install_github("favstats/AllSideR")
+
+## Access dataset from package
+AllSideR::allsides_data
+```
+
+## Example Plots
 
 ``` r
 allsides_data %>% 
@@ -38,7 +115,7 @@ allsides_data %>%
   geom_smooth()
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 People agree more on bias of partisan media.
 
@@ -60,7 +137,7 @@ allsides_data %>%
   geom_boxplot(width = 0.2)
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 allsides_data %>%
@@ -68,6 +145,6 @@ allsides_data %>%
   geom_density(alpha = .4)
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 Lacks of right-wing media is filled by “Authors”?

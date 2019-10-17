@@ -2,6 +2,8 @@
 output: github_document
 ---
 
+Latest Data Update: 2019-10-18
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, include = FALSE}
@@ -11,6 +13,9 @@ knitr::opts_chunk$set(
   message = F,
   warning = F
 )
+
+library(tidyverse)
+
 ```
 
 # AllSideR
@@ -18,20 +23,70 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of AllSideR is to provide you with the [AllSides.com](AllSides.com) Media Bias rating dataset.
+The goal of AllSideR is to provide you with the [AllSides.com](https://www.allsides.com/media-bias/media-bias-ratings) Media Bias rating dataset.
+
+From AllSides.com:
+
+> Our Media Bias Ratings are determined using multiple methods and represent the average judgment of Americans. They are based on blind surveys of people across the political spectrum, multi-partisan analysis, editorial reviews, third party data, and tens of thousands of user feedback ratings. Our scientifically-generated ratings are fluid and subject to change as new information is gathered and biases change over time.
+
+![](https://www.allsides.com/sites/default/files/AllSidesMediaBiasChart-Version1.1_0.jpg)
+
+The dataset looks like this:
+
+<!-- # ```{r} -->
+<!-- # readRDS("data/allsides_data.RDS") %>%  -->
+<!-- #   dplyr::select(news_source, rating, rating_num, type, agree, disagree, perc_agree, dplyr::everything(), -community_feedback) -> allsides_data -->
+<!-- #  -->
+<!-- # tidytemplate::save_it(allsides_data) -->
+<!-- #  -->
+<!-- # readr::write_csv(allsides_data, path = "data/allsides_data.csv") -->
+<!-- #  -->
+<!-- # usethis::use_data(allsides_data) -->
+<!-- # ``` -->
+
++ `news_source`: Rated entity 
++ `rating`: AllSides Rating (left, left-center, center, right-center, right, allsides)
++ `rating_num`: Same as `rating` but numeric
++ `type`: News entity type (can be news media, author or think tank/policy group)
++ `agree`: Number of people who agree with the rating
++ `disagree`: Number of people who disagree with the rating
++ `perc_agree`: Percentage of people who agree with the rating
++ `url`: URL with more Info
++ `editorial_review`: Was there an editorial review of the rating? (0/1)
++ `blind_survey`: Blind survey conducted? (0/1)
++ `third_party_analysis`: Based on third-party analysis? (0/1)
++ `independent_research`: Based on ndependent research? (0/1)
++ `confidence_level`: The confidence of the rating (Low or Initial Rating	, Medium, High)
++ `twitter`: URL to Twitter account (when provided)
++ `wiki`: URL to Wikipedia article (when provided)
++ `facebook`: URL to Facebook page (when provided)
++ `screen_name`: Twitter screen name
 
 
-## Load Dataset
+
+## Get Dataset
+
+Either Download data from GitHub Repo like this:
 
 ```{r}
-library(tidyverse)
+allsides_data <- readr::read_csv("https://raw.githubusercontent.com/favstats/AllSideR/master/data/allsides_data.csv")
 
-allsides_data <- read_rds("data/allsides_data.RDS")
-
-allsides_data %>% 
-  head() %>% 
-  knitr::kable()
+allsides_data
 ```
+
+Or install package and use it from there:
+
+```{r, eval=F}
+devtools::install_github("favstats/AllSideR")
+
+## Access dataset from package
+AllSideR::allsides_data
+```
+
+
+
+## Example Plots
+
 
 ```{r}
 allsides_data %>% 
