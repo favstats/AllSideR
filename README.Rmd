@@ -1,0 +1,69 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  message = F,
+  warning = F
+)
+```
+
+# AllSideR
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of AllSideR is to provide you with the [AllSides.com](AllSides.com) Media Bias rating dataset.
+
+
+## Load Dataset
+
+```{r}
+library(tidyverse)
+
+allsides_data <- read_rds("data/allsides_data.RDS")
+
+allsides_data %>% 
+  head() %>% 
+  knitr::kable()
+```
+
+```{r}
+allsides_data %>% 
+  ggplot(aes(rating_num, perc_agree)) +
+  geom_jitter() +
+  geom_smooth()
+```
+
+People agree more on bias of partisan media.
+
+```{r}
+
+  
+
+allsides_data %>% 
+  mutate(partisan = case_when(
+    rating_num %in% c(2, 4) ~ "Slightly Partisan",
+    rating_num %in% c(1, 5) ~ "Partisan",
+    rating_num == 3 ~ "Center"
+  )) %>% 
+  drop_na(partisan) %>% 
+  mutate(partisan = fct_relevel(partisan, c("Center", "Slightly Partisan", "Partisan"))) %>% 
+  ggplot(aes(partisan, perc_agree)) +
+  geom_jitter(alpha = 0.4)  +
+  geom_violin(alpha = 0.4) +
+  geom_boxplot(width = 0.2)
+```
+
+```{r}
+allsides_data %>%
+  ggplot(aes(rating_num, fill = type)) +
+  geom_density(alpha = .4)
+```
+
+Lacks of right-wing media is filled by "Authors"?

@@ -1,0 +1,554 @@
+news_source,agree,disagree,rating,url,perc_agree,rating_num,type,editorial_review,community_feedback,blind_survey,third_party_analysis,independent_research,confidence_level,twitter,wiki,facebook,screen_name
+AARP,1404,2343,center,https://www.allsides.com/news-source/aarp-media-bias,0.37469975980784626,3,Think Tank / Policy Group,0,0,0,0,0,NA,https://twitter.com/AARP,https://en.wikipedia.org/wiki/AARP,NA,AARP
+ABC News,13793,9409,left-center,https://www.allsides.com/news-source/abc-news-media-bias,0.5944746142573916,2,News Media,0,0,1,1,1,High,https://twitter.com/ABC,https://en.wikipedia.org/wiki/ABC_News,https://www.facebook.com/ABCNews/,ABC
+Abridge News,31,17,allsides,https://www.allsides.com/news-source/abridge-news-media-bias,0.6458333333333334,NA,News Media,0,0,0,0,1,High,https://twitter.com/Abridge_News,NA,https://www.facebook.com/AbridgeNews,Abridge_News
+Accuracy in Media,743,444,right,https://www.allsides.com/news-source/accuracy-media,0.6259477674810446,5,Think Tank / Policy Group,0,0,0,0,1,Medium,NA,https://en.wikipedia.org/wiki/Accuracy_in_Media,NA,NA
+ACLU,1272,1697,left-center,https://www.allsides.com/news-source/american-civil-liberties-union,0.42842707982485684,2,Think Tank / Policy Group,0,0,0,0,0,NA,https://twitter.com/@ACLU,https://en.wikipedia.org/wiki/American_Civil_Liberties_Union,https://www.facebook.com/aclu/,ACLU
+AJ+,13,5,left,https://www.allsides.com/news-source/aj-media-bias,0.7222222222222222,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Al Cardenas,353,238,right,https://www.allsides.com/news-source/al-cardenas,0.5972927241962775,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Al Jazeera,3707,6138,left-center,https://www.allsides.com/news-source/al-jazeera-america,0.376536312849162,2,News Media,0,0,0,1,1,Low or Initial Rating,https://twitter.com/@AJEnglish,https://en.wikipedia.org/wiki/Al_Jazeera,"https://www.facebook.com/aljazeera/ 
+",AJEnglish
+AllSides,3301,1308,allsides,https://www.allsides.com/news-source/allsides-0,0.7162074202646995,NA,News Media,0,0,0,0,0,High,NA,NA,NA,NA
+AllSides Community,2142,1273,allsides,https://www.allsides.com/news-source/allsides-community,0.6272327964860908,NA,News Media,0,0,0,0,0,High,NA,NA,NA,NA
+Allysia Finley (Wall Street Journal),410,474,right,https://www.allsides.com/news-source/allysia-finley,0.4638009049773756,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+AlterNet,3357,862,left,https://www.allsides.com/news-source/alternet-media-bias,0.7956861815596112,1,News Media,0,0,0,0,1,High,https://twitter.com/AlterNet,https://en.wikipedia.org/wiki/AlterNet,https://www.facebook.com/AlterNetNews,AlterNet
+American Conservative Union,608,336,right,https://www.allsides.com/news-source/american-conservative-union,0.6440677966101694,5,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+American Enterprise Institute,1526,788,right-center,https://www.allsides.com/news-source/american-enterprise-institute,0.6594641313742438,4,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+American Greatness,44,9,right,https://www.allsides.com/news-source/american-greatness-media-bias,0.8301886792452831,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/theamgreatness,NA,https://www.facebook.com/theamericangreatness/,theamgreatness
+American Spectator,7031,2838,right,https://www.allsides.com/news-source/american-spectator,0.7124328706049246,5,News Media,0,0,0,0,1,Medium,https://twitter.com/AmSpec?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://en.wikipedia.org/wiki/The_American_Spectator,https://www.facebook.com/amspec/,AmSpec
+American Thinker,1368,754,right,https://www.allsides.com/news-source/american-thinker,0.644674835061263,5,News Media,0,0,0,0,0,Medium,https://twitter.com/AmericanThinker,https://en.wikipedia.org/wiki/American_Thinker,https://www.facebook.com/AmericanThinker/,AmericanThinker
+Americans for Democratic Action,491,216,left,https://www.allsides.com/news-source/americans-democratic-action,0.6944837340876945,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Americans for Tax Reform,523,376,right,https://www.allsides.com/news-source/americans-tax-reform,0.5817575083426029,5,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Andrew Napolitano,621,503,right,https://www.allsides.com/news-source/andrew-napolitano,0.552491103202847,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Andrew Sullivan,37,37,right-center,https://www.allsides.com/news-source/andrew-sullivan-media-bias,0.5,4,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+Andy Ngo,88,77,center,https://www.allsides.com/news-source/andy-ngo-media-bias,0.5333333333333333,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Ann Coulter,1141,277,right,https://www.allsides.com/news-source/ann-coulter,0.8046544428772919,5,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Annafi Wahed,221,212,left-center,https://www.allsides.com/news-source/annafi-wahed-media-bias,0.5103926096997691,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+AP,868,704,center,https://www.allsides.com/news-source/ap,0.5521628498727735,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Aquinas College Saint,769,476,left,https://www.allsides.com/news-source/aquinas-college-saint,0.6176706827309237,1,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Arkadi Gerney,193,167,left-center,https://www.allsides.com/news-source/arkadi-gerney,0.5361111111111111,2,Author,checked,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Arkansas Democrat-Gazette,818,619,left,https://www.allsides.com/news-source/arkansas-democrat-gazette,0.5692414752957551,1,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Associated Press,8112,5817,center,https://www.allsides.com/news-source/associated-press-media-bias,0.5823820805513676,3,News Media,1,0,0,0,0,Medium,https://twitter.com/@johnleicester?ref_src=twsrc%5Etfw,https://en.wikipedia.org/wiki/Associated_Press,https://www.facebook.com/APNews/,johnleicester
+Association for Psychological Science,652,526,center,https://www.allsides.com/news-source/association-psychological-science,0.5534804753820034,3,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Atlanta Journal-Constitution,749,690,left-center,https://www.allsides.com/news-source/atlanta-journal-constitution,0.5205003474635164,2,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/ajc,https://en.wikipedia.org/wiki/The_Atlanta_Journal-Constitution,https://www.facebook.com/ajc/,ajc
+Atlas Network,267,178,right,https://www.allsides.com/news-source/atlas-network,0.6,5,Think Tank / Policy Group,0,0,0,0,1,Medium,NA,NA,NA,NA
+AtlasOne,208,241,right-center,https://www.allsides.com/news-source/atlasone,0.46325167037861914,4,Think Tank / Policy Group,0,0,0,0,1,Medium,NA,NA,NA,NA
+Austin American-Statesman,659,498,left-center,https://www.allsides.com/news-source/austin-american-statesman,0.5695764909248056,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/statesman,https://en.wikipedia.org/wiki/Austin_American-Statesman,https://www.facebook.com/statesman,statesman
+Axios,1356,1565,center,https://www.allsides.com/news-source/axios,0.4642245806230743,3,News Media,0,0,1,0,1,Low or Initial Rating,https://twitter.com/@axios,https://en.wikipedia.org/wiki/Axios_(website),https://www.facebook.com/axiosnews/,axios
+AZ Central,9,25,center,https://www.allsides.com/news-source/az-central-media-bias,0.2647058823529412,3,News Media,0,0,0,0,0,NA,https://twitter.com/azcentral,https://en.wikipedia.org/wiki/The_Arizona_Republic,https://www.facebook.com/azcentral/,azcentral
+Barnstable Patriot,431,502,center,https://www.allsides.com/news-source/barnstable-patriot,0.46195069667738475,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/Barnstable_Patriot,NA,NA
+BBC News,11212,10996,center,https://www.allsides.com/news-source/bbc-news-media-bias,0.5048631123919308,3,News Media,0,0,0,0,1,Medium,https://twitter.com/bbcworld,https://en.wikipedia.org/wiki/BBC,https://www.facebook.com/bbcnews/,bbcworld
+Bearing Drift,527,453,right,https://www.allsides.com/news-source/bearing-drift,0.5377551020408163,5,News Media,0,0,0,0,1,High,NA,NA,NA,NA
+Ben Sargent (cartoonist),174,199,left,https://www.allsides.com/news-source/ben-sargent-cartoonist,0.46648793565683644,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Ben Shapiro,1123,682,right,https://www.allsides.com/news-source/ben-shapiro,0.6221606648199446,5,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+Ben Stein,507,373,right-center,https://www.allsides.com/news-source/ben-stein,0.5761363636363637,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Beth Ballentine,315,368,center,https://www.allsides.com/news-source/beth-ballentine,0.4612005856515373,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Better Angels,0,0,allsides,https://www.allsides.com/news-source/better-angels-media-bias,NaN,NA,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Billy Binion,214,164,center,https://www.allsides.com/news-source/billy-binion,0.5661375661375662,3,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Bloomberg,6430,7570,center,https://www.allsides.com/news-source/bloomberg-media-bias,0.4592857142857143,3,News Media,0,0,1,0,1,Medium,https://twitter.com/business,https://en.wikipedia.org/wiki/Bloomberg_News,https://www.facebook.com/bloombergbusiness/,business
+Blue Virginia,635,456,left,https://www.allsides.com/news-source/blue-virginia,0.5820348304307974,1,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Bob Gorrell (cartoonist),217,170,right,https://www.allsides.com/news-source/bob-gorrell-cartoonist,0.5607235142118863,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Boing Boing,763,490,left,https://www.allsides.com/news-source/boing-boing,0.6089385474860335,1,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/boingboing,http://en.wikipedia.org/wiki/Boing_Boing,https://www.facebook.com/boingboing,boingboing
+Boston Herald,290,256,right-center,https://www.allsides.com/news-source/boston-herald-media-bias,0.5311355311355311,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Boston Herald Editorial,155,142,right-center,https://www.allsides.com/news-source/boston-herald-editorial-media-bias,0.5218855218855218,4,News Media,1,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Bowling Green Daily News,499,543,left-center,https://www.allsides.com/news-source/bowling-green-daily-news,0.47888675623800386,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Breitbart News,17019,8114,right,https://www.allsides.com/news-source/breitbart,0.6771575219830501,5,News Media,0,0,1,0,1,High,https://twitter.com/BreitbartNews,https://en.wikipedia.org/wiki/Breitbart_News,https://www.facebook.com/Breitbart/,BreitbartNews
+Brent Bozell,251,222,right,https://www.allsides.com/news-source/brent-bozell,0.5306553911205074,5,Author,0,0,0,0,1,High,NA,NA,NA,NA
+Bret Stephens,215,270,right-center,https://www.allsides.com/news-source/bret-stephens,0.44329896907216493,4,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Brookings Institution,2222,1459,center,https://www.allsides.com/news-source/brookings-institute,0.6036403151317576,3,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Business Insider,1886,2155,center,https://www.allsides.com/news-source/business-insider,0.46671615936649347,3,News Media,0,0,0,0,0,NA,https://twitter.com/businessinsider,https://en.wikipedia.org/wiki/Business_Insider,http://www.facebook.com/businessinsider,businessinsider
+Bustle,675,691,left-center,https://www.allsides.com/news-source/bustle,0.49414348462664714,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/bustle,NA,https://www.facebook.com/bustledotcom/,bustle
+BuzzFeed News,6106,6551,left,https://www.allsides.com/news-source/buzzfeed-media-bias,0.48242079481709726,1,News Media,1,0,0,1,1,Medium,NA,https://en.wikipedia.org/wiki/BuzzFeed_News,NA,NA
+C-SPAN,2719,810,center,https://www.allsides.com/news-source/c-span,0.7704732218758855,3,News Media,0,0,0,0,1,Medium,https://twitter.com/@cspan,https://en.wikipedia.org/wiki/C-SPAN,https://www.facebook.com/CSPAN,cspan
+CalMatters,575,455,center,https://www.allsides.com/news-source/calmatters,0.558252427184466,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+CalWatchdog,446,471,center,https://www.allsides.com/news-source/calwatchdog,0.48636859323882226,3,News Media,0,0,0,0,1,Medium,NA,NA,NA,NA
+Care 2,491,525,left,https://www.allsides.com/news-source/care-2,0.48326771653543305,1,News Media,0,0,0,0,1,NA,NA,NA,NA,NA
+Carnegie Endowment for International Peace,385,303,center,https://www.allsides.com/news-source/carnegie-endowment-international-peace,0.559593023255814,3,Think Tank / Policy Group,0,0,0,1,0,NA,NA,NA,NA,NA
+Carrie Lukas,193,153,right,https://www.allsides.com/news-source/carrie-lukas,0.5578034682080925,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Cathy Young,11,17,right-center,https://www.allsides.com/news-source/cathy-young-media-bias,0.39285714285714285,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Cato Institute (blog),899,1367,right-center,https://www.allsides.com/news-source/cato-institute,0.3967343336275375,4,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+CBN,6333,3314,right,https://www.allsides.com/news-source/cbn,0.656473515082409,5,News Media,0,0,0,0,1,Medium,https://twitter.com/CBNNews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://en.wikipedia.org/wiki/Christian_Broadcasting_Network,https://www.facebook.com/cbnonline,CBNNews
+CBS News,6905,5391,left-center,https://www.allsides.com/news-source/cbs-news-media-bias,0.5615647364996746,2,News Media,0,0,1,0,1,Low or Initial Rating,https://twitter.com/@CBSNews,https://en.wikipedia.org/wiki/CBS_News,https://www.facebook.com/CBSNews/,CBSNews
+Center - Major Media Sources,564,477,center,https://www.allsides.com/news-source/center-major-media-sources,0.5417867435158501,3,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Center For American Progress,879,1294,left-center,https://www.allsides.com/news-source/center-american-progress,0.40450989415554534,2,Think Tank / Policy Group,0,0,0,0,0,NA,https://twitter.com/amprog,https://en.wikipedia.org/wiki/Center_for_American_Progress,https://www.facebook.com/americanprogress,amprog
+Center for Media & Democracy PR Watch,217,214,left-center,https://www.allsides.com/news-source/center-media-democracy-pr-watch,0.5034802784222738,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Center for Public Integrity,577,648,left-center,https://www.allsides.com/news-source/center-public-integrity,0.4710204081632653,2,News Media,checked,0,0,0,0,NA,https://twitter.com/Publici,https://en.wikipedia.org/wiki/Center_for_Public_Integrity,https://www.facebook.com/publici/,Publici
+Center for Strategic and Budgetary Assessments,344,418,right-center,https://www.allsides.com/news-source/cent-strategic-and-budgetary-assessments,0.45144356955380577,4,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Center on Budget and Policy Priorities,685,607,left,https://www.allsides.com/news-source/center-budget-and-policy-priorities-0,0.5301857585139319,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Centre View,460,524,left-center,https://www.allsides.com/news-source/centre-view,0.46747967479674796,2,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Chan Lowe (cartoonist),152,180,left,https://www.allsides.com/news-source/chan-lowe-cartoonist,0.4578313253012048,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Charles Blow,206,211,left-center,https://www.allsides.com/news-source/charles-blow,0.4940047961630695,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Charles Krauthammer,549,516,right-center,https://www.allsides.com/news-source/charles-krauthammer,0.5154929577464789,4,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+Charlie Kirk,32,15,right,https://www.allsides.com/news-source/charlie-kirk-media-bias,0.6808510638297872,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Chicago Sun-Times,632,627,left-center,https://www.allsides.com/news-source/chicago-sun-times,0.5019857029388404,2,News Media,0,0,0,0,1,Medium,NA,https://en.wikipedia.org/wiki/Chicago_Sun-Times,NA,NA
+Chicago Tribune,1753,3167,center,https://www.allsides.com/news-source/chicago-tribune,0.3563008130081301,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@crepeau,https://en.wikipedia.org/wiki/Chicago_Tribune,https://www.facebook.com/chicagotribune,crepeau
+Children’s Defense Fund,195,214,left,https://www.allsides.com/news-source/childrens-defense-fund,0.4767726161369193,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Chip Bok (cartoonist),156,145,right,https://www.allsides.com/news-source/chip-bok-cartoonist,0.5182724252491694,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Chris Britt (cartoonist),148,84,center,https://www.allsides.com/news-source/chris-britt-cartoonist,0.6379310344827587,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Chris Ruddy,147,213,right,https://www.allsides.com/news-source/chris-ruddy,0.4083333333333333,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Christian Science Monitor,9130,12033,center,https://www.allsides.com/news-source/christian-science-monitor,0.43141331569248215,3,News Media,0,0,0,0,1,High,https://twitter.com/csmonitor?,https://en.wikipedia.org/wiki/The_Christian_Science_Monitor,https://www.facebook.com/ChristianScienceMonitor/,csmonitor
+Christiane Amanpour,317,409,left-center,https://www.allsides.com/news-source/christiane-amanpour,0.4366391184573003,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Christopher Buskirk,60,55,right-center,https://www.allsides.com/news-source/christopher-buskirk-media-bias,0.5217391304347826,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Chuck Asay (cartoonist),181,151,right,https://www.allsides.com/news-source/chuck-asay-cartoonist,0.5451807228915663,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+City Journal,236,187,right,https://www.allsides.com/news-source/city-journal-media-bias,0.557919621749409,5,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/cityjournal,https://en.wikipedia.org/wiki/City_Journal_(New_York_City),https://www.facebook.com/CityJournal,cityjournal
+CivilPolitics.org,211,210,center,https://www.allsides.com/news-source/civilpoliticsorg,0.501187648456057,3,Think Tank / Policy Group,0,0,0,0,1,NA,NA,NA,NA,NA
+Clay Bennett (cartoonist),125,93,left,https://www.allsides.com/news-source/clay-bennett-cartoonist,0.573394495412844,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+CNBC,1564,3975,center,https://www.allsides.com/news-source/cnbc,0.2823614370825059,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/CNBC,https://en.wikipedia.org/wiki/CNBC,https://www.facebook.com/cnbc,CNBC
+CNET,154,136,center,https://www.allsides.com/news-source/cnet,0.5310344827586206,3,News Media,0,0,0,0,0,NA,https://twitter.com/CNET,https://en.wikipedia.org/wiki/CNET,https://www.facebook.com/cnet/,CNET
+CNN (Web News),27746,28952,left-center,https://www.allsides.com/news-source/cnn-media-bias,0.48936470422237116,2,News Media,1,0,1,1,1,High,https://twitter.com/@CNN,https://en.wikipedia.org/wiki/CNN,https://facebook.com/cnn,CNN
+CNN - Editorial,8433,2395,left,https://www.allsides.com/news-source/cnn-editorial,0.7788141854451422,1,News Media,1,0,0,0,1,Medium,https://twitter.com/@CNN,https://en.wikipedia.org/wiki/CNN,https://facebook.com/cnn,CNN
+CNS News,829,686,right,https://www.allsides.com/news-source/cns-news,0.5471947194719472,5,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/cnsnews,https://en.wikipedia.org/wiki/CNS_News,https://www.facebook.com/cnsnewscom,cnsnews
+CNSNews.com,749,639,right,https://www.allsides.com/news-source/cnsnewscom,0.5396253602305475,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/cnsnews,https://en.wikipedia.org/wiki/CNS_News,https://www.facebook.com/cnsnewscom,cnsnews
+Columbia Journalism Review,102,210,center,https://www.allsides.com/news-source/columbia-journalism-review,0.3269230769230769,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Commentary Magazine,128,132,right,https://www.allsides.com/news-source/commentary-magazine-media-bias,0.49230769230769234,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/Commentary/,https://en.wikipedia.org/wiki/Commentary_(magazine),https://www.facebook.com/commentarymagazine/,Commentary
+Conor Friedersdorf,12,16,center,https://www.allsides.com/news-source/conor-friedersdorf-media-bias,0.42857142857142855,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Conservative HQ,740,327,right,https://www.allsides.com/news-source/conservative-hq,0.6935332708528584,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/RichardViguerie,https://en.wikipedia.org/wiki/Richard_Viguerie,https://www.facebook.com/ConservativeHQ,RichardViguerie
+Cook Report,811,490,center,https://www.allsides.com/news-source/cook-report,0.6233666410453498,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Council on Foreign Relations,111,156,left,https://www.allsides.com/news-source/council-foreign-relations-0,0.4157303370786517,1,Think Tank / Policy Group,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Countable,23,25,center,https://www.allsides.com/news-source/countable-media-bias,0.4791666666666667,3,News Media,0,0,0,0,1,High,NA,NA,NA,NA
+Counter Currents,289,200,left-center,https://www.allsides.com/news-source/counter-currents,0.591002044989775,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/countercurrents,NA,https://www.facebook.com/countercurrents/,countercurrents
+Counterpointing,328,313,allsides,https://www.allsides.com/news-source/counterpointing,0.5117004680187207,NA,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+CrowdPAC,341,356,center,https://www.allsides.com/news-source/crowdpac,0.48923959827833574,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+CU Independent,278,342,center,https://www.allsides.com/news-source/cu-independent,0.4483870967741935,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/CU_Independent,NA,NA
+Current Affairs,206,79,left,https://www.allsides.com/news-source/current-affairs-media-bias,0.7228070175438597,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Daily Beast,7713,4241,left,https://www.allsides.com/news-source/daily-beast-media-bias,0.6452233561987619,1,News Media,1,0,1,0,0,NA,https://twitter.com/@thedailybeast,https://en.wikipedia.org/wiki/The_Daily_Beast,https://www.facebook.com/thedailybeast/,thedailybeast
+Daily Cardinal,339,362,center,https://www.allsides.com/news-source/daily-cardinal,0.48359486447931527,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/dailycardinal,https://en.wikipedia.org/wiki/The_Daily_Cardinal,https://www.facebook.com/The-Daily-Cardinal-67904168706/?ref=br_rs,dailycardinal
+Daily Kos,5243,1937,left,https://www.allsides.com/news-source/daily-kos,0.7302228412256268,1,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/@Devilstower,https://en.wikipedia.org/wiki/Daily_Kos,https://www.facebook.com/dailykos/,Devilstower
+Daily Mail,2470,1841,right,https://www.allsides.com/news-source/daily-mail,0.572952911157504,5,News Media,0,0,0,0,1,Medium,https://twitter.com/@RE_DailyMail,"https://en.wikipedia.org/wiki/Daily_Mail
+",https://www.facebook.com/DailyMail,RE_DailyMail
+Daily Northwestern,307,320,left-center,https://www.allsides.com/news-source/daily-northwestern,0.48963317384370014,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Daily Press,287,385,right-center,https://www.allsides.com/news-source/daily-press,0.4270833333333333,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/Daily_Press,https://en.wikipedia.org/wiki/Daily_Press_(Virginia),https://www.facebook.com/dailypressnews/,Daily_Press
+Daily Progress,352,341,center,https://www.allsides.com/news-source/daily-progress,0.5079365079365079,3,News Media,checked,0,0,0,0,NA,NA,https://en.wikipedia.org/wiki/The_Daily_Progress,NA,NA
+Daily Targum,195,335,left-center,https://www.allsides.com/news-source/daily-targum,0.36792452830188677,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/The_Daily_Targum,NA,NA
+Damon Linker,221,237,left-center,https://www.allsides.com/news-source/damon-linker,0.48253275109170307,2,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Dan Lucas,69,51,right,https://www.allsides.com/news-source/dan-lucas,0.575,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Dan Wasserman (cartoonist),52,22,left,https://www.allsides.com/news-source/dan-wasserman-cartoonist,0.7027027027027027,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Dana Milbank,166,265,center,https://www.allsides.com/news-source/dana-milbank,0.3851508120649652,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Dana Summers (cartoonist),85,86,right-center,https://www.allsides.com/news-source/dana-summers-cartoonist,0.49707602339181284,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+David Brooks,249,314,right-center,https://www.allsides.com/news-source/david-brooks,0.4422735346358792,4,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+David Holmes,63,52,left-center,https://www.allsides.com/news-source/david-holmes,0.5478260869565217,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+David Ignatius,111,142,center,https://www.allsides.com/news-source/david-ignatius,0.43873517786561267,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+David Leonhardt,70,57,left-center,https://www.allsides.com/news-source/david-leonhardt,0.5511811023622047,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Debra Saunders,128,107,right,https://www.allsides.com/news-source/debra-saunders,0.5446808510638298,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Defense One,156,147,center,https://www.allsides.com/news-source/defense-one-media-bias,0.5148514851485149,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Democracy Now,5405,1833,left,https://www.allsides.com/news-source/democracy-now,0.7467532467532467,1,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/DemocracyNow,https://en.wikipedia.org/wiki/Democracy_Now!,https://www.facebook.com/democracynow,DemocracyNow
+Deseret News,1037,1685,right-center,https://www.allsides.com/news-source/deseret-news,0.3809698750918442,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/DeseretNews?ref_src=twsrcgoogletwcampserptwgrauthor,https://en.wikipedia.org/wiki/Deseret_News,https://www.facebook.com/deseretnews/,DeseretNews
+Dick Locher (cartoonist),19,44,right,https://www.allsides.com/news-source/dick-locher-cartoonist,0.30158730158730157,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Dick Morris,149,204,right-center,https://www.allsides.com/news-source/dick-morris,0.42209631728045327,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Diplomatic Courier,283,218,center,https://www.allsides.com/news-source/diplomatic-courier,0.564870259481038,3,News Media,0,0,0,0,1,Medium,https://twitter.com/diplocourier,https://en.wikipedia.org/wiki/Diplomatic_courier,https://www.facebook.com/diplocourier,diplocourier
+Drew Litton (cartoonist),30,72,center,https://www.allsides.com/news-source/drew-litton-cartoonist,0.29411764705882354,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Drew Sheneman (cartoonist),57,47,left,https://www.allsides.com/news-source/drew-sheneman-cartoonist,0.5480769230769231,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Drudge Report,1894,1203,right-center,https://www.allsides.com/news-source/drudge-report,0.6115595737810785,4,News Media,0,0,0,1,1,Medium,https://twitter.com/drudge_report,https://en.wikipedia.org/wiki/Drudge_Report,https://www.facebook.com/newdrudge/,drudge_report
+Duke Chronicle,328,319,center,https://www.allsides.com/news-source/duke-chronicle,0.5069551777434312,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/DukeChronicle,http://en.wikipedia.org/wiki/The_Chronicle_(Duke_University),https://www.facebook.com/dukechronicle,DukeChronicle
+E J Dionne,474,379,left,https://www.allsides.com/news-source/e-j-dionne,0.5556858147713951,1,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Economic Policy Institute,138,152,left,https://www.allsides.com/news-source/economic-policy-institute-0,0.47586206896551725,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Ed Rogers,108,64,right,https://www.allsides.com/news-source/ed-rogers,0.627906976744186,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+EdVotes.org,87,37,left,https://www.allsides.com/news-source/edvotesorg,0.7016129032258065,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Edward Morrissey,125,123,right,https://www.allsides.com/news-source/edward-morrissey,0.5040322580645161,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Eli Parser,13,9,left,https://www.allsides.com/news-source/eli-parser-media-bias,0.5909090909090909,1,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Environmental Defense Fund,242,161,left-center,https://www.allsides.com/news-source/environmental-defense-fund,0.6004962779156328,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Eric Allie (cartoonist),99,87,right,https://www.allsides.com/news-source/eric-allie-cartoonist,0.532258064516129,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Erik Wemple,167,221,center,https://www.allsides.com/news-source/erik-wemple,0.43041237113402064,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Esquire,841,460,left,https://www.allsides.com/news-source/esquire,0.6464258262874711,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Estes Park Trail Gazette,187,258,center,https://www.allsides.com/news-source/estes-park-trail-gazette,0.4202247191011236,3,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Eugene Robinson,177,125,left,https://www.allsides.com/news-source/eugene-robinson,0.5860927152317881,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Eurek Alert,278,309,center,https://www.allsides.com/news-source/eurek-alert,0.4735945485519591,3,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/EurekAlertAAAS,NA,https://www.facebook.com/EurekAlert?_rdr,EurekAlertAAAS
+Ezra Klein,264,197,left,https://www.allsides.com/news-source/ezra-klein,0.5726681127982647,1,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Fact Checker Blog,667,550,center,https://www.allsides.com/news-source/fact-checker-blog,0.5480690221857025,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+FactCheck.org,5490,4018,center,https://www.allsides.com/news-source/factcheckorg-media-bias,0.5774084981068573,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/FactCheck.org,NA,NA
+FAIR,88,112,left-center,https://www.allsides.com/news-source/fairness-and-accuracy-reporting,0.44,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Fair.org,420,425,center,https://www.allsides.com/news-source/fairorg,0.4970414201183432,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Falls Church News - Press,327,404,left,https://www.allsides.com/news-source/falls-church-news-press,0.4473324213406293,1,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Family Research Council,277,468,right-center,https://www.allsides.com/news-source/family-research-council,0.3718120805369127,4,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Fareed Zakaria,190,377,center,https://www.allsides.com/news-source/fareed-zakaria,0.3350970017636684,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Federation of American Scientists,179,206,left-center,https://www.allsides.com/news-source/federation-american-scientists,0.4649350649350649,2,Think Tank / Policy Group,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Financial Times,340,216,center,https://www.allsides.com/news-source/financial-times-media-bias,0.6115107913669064,3,News Media,1,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Fiscal Times,653,525,right-center,https://www.allsides.com/news-source/fiscal-times,0.5543293718166383,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+FiveThirtyEight,3326,2019,center,https://www.allsides.com/news-source/fivethirtyeight-0,0.6222637979420018,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/FiveThirtyEight,https://en.wikipedia.org/wiki/FiveThirtyEight,https://www.facebook.com/fivethirtyeight,FiveThirtyEight
+Food Democracy Now,111,105,left-center,https://www.allsides.com/news-source/food-democracy-now,0.5138888888888888,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Forbes,3972,2443,center,https://www.allsides.com/news-source/forbes,0.6191738113795792,3,News Media,0,0,0,0,0,NA,https://twitter.com/forbes/,https://en.wikipedia.org/wiki/Forbes,https://www.facebook.com/forbes/,forbes
+Foreign Affairs,771,427,center,https://www.allsides.com/news-source/foreign-affairs,0.6435726210350584,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/ForeignAffairs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://en.wikipedia.org/wiki/Foreign_Affairs,https://www.facebook.com/ForeignAffairs/,ForeignAffairs
+Fox News Latino,1587,841,right,https://www.allsides.com/news-source/fox-news-latino,0.6536243822075782,5,News Media,checked,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Fox News Opinion,6195,1550,right,https://www.allsides.com/news-source/fox-news-editorial-media-bias,0.7998708844415752,5,News Media,1,0,0,0,0,Low or Initial Rating,https://twitter.com/FoxNews,https://en.wikipedia.org/wiki/Fox_News,https://www.facebook.com/FoxNews/,FoxNews
+Fox Online News,22692,32082,right-center,https://www.allsides.com/news-source/fox-news-media-bias,0.4142841494139555,4,News Media,1,0,1,0,1,High,https://twitter.com/FoxNews,https://en.wikipedia.org/wiki/Fox_News,https://www.facebook.com/FoxNews/,FoxNews
+Frank Bruni,64,90,left-center,https://www.allsides.com/news-source/frank-bruni,0.4155844155844156,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Frank Miniter,276,272,right,https://www.allsides.com/news-source/frank-miniter,0.5036496350364964,5,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Freakonomics,295,200,center,https://www.allsides.com/news-source/freakonomics,0.5959595959595959,3,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Freedom House,92,131,right-center,https://www.allsides.com/news-source/freedom-house,0.4125560538116592,4,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Froma Harrop,61,51,left-center,https://www.allsides.com/news-source/froma-harrop,0.5446428571428571,2,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+FrontPage Magazine,443,344,right,https://www.allsides.com/news-source/frontpage-magazine,0.5628970775095299,5,News Media,checked,0,0,0,0,Medium,NA,NA,NA,NA
+Gary Markstein (cartoonist),36,65,center,https://www.allsides.com/news-source/gary-markstein-cartoonist,0.3564356435643564,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Gary Varvel (cartoonist),36,14,right,https://www.allsides.com/news-source/gary-varvel-cartoonist,0.72,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Gell,27,13,allsides,https://www.allsides.com/news-source/gell-media-bias,0.675,NA,Think Tank / Policy Group,0,0,0,0,1,Medium,NA,NA,NA,NA
+George Will,403,556,right,https://www.allsides.com/news-source/george-will,0.42022940563086547,5,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+Glenn Beck,510,183,right,https://www.allsides.com/news-source/glenn-beck,0.7359307359307359,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Glenn McCoy (cartoonist),24,18,right,https://www.allsides.com/news-source/glenn-mccoy-cartoonist,0.5714285714285714,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Google News,167,85,left-center,https://www.allsides.com/news-source/google-news-media-bias,0.6626984126984127,2,News Media,1,0,0,0,1,Medium,https://twitter.com/Google,https://en.wikipedia.org/wiki/Google,https://www.facebook.com/Google/,Google
+GOP.gov,375,189,right,https://www.allsides.com/news-source/gopgov,0.6648936170212766,5,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Grist,409,461,left-center,https://www.allsides.com/news-source/grist,0.47011494252873565,2,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Grover Norquist,237,63,right,https://www.allsides.com/news-source/grover-norquist,0.79,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Guest Writer - Center,2,4,center,https://www.allsides.com/news-source/guest-writer-center-media-bias,0.3333333333333333,3,Author,0,0,0,0,0,High,NA,NA,NA,NA
+Guest Writer - Left,144,247,left-center,https://www.allsides.com/news-source/guest-writer-left,0.36828644501278773,2,Author,0,0,0,0,0,Medium,NA,NA,NA,NA
+Guest Writer - Right,200,307,right-center,https://www.allsides.com/news-source/guest-writer-right,0.39447731755424065,4,Author,0,0,0,0,0,Medium,NA,NA,NA,NA
+Hampton Roads Messanger,332,331,center,https://www.allsides.com/news-source/hampton-roads-messanger,0.5007541478129713,3,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Harvard Business School,612,708,left-center,https://www.allsides.com/news-source/harvard-business-school,0.4636363636363636,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Healthcare.gov,177,339,left-center,https://www.allsides.com/news-source/healthcaregov,0.3430232558139535,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Heather Mac Donald,44,80,right,https://www.allsides.com/news-source/heather-mcdonald,0.3548387096774194,5,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Henry A. Brechter,11,7,center,https://www.allsides.com/news-source/henry-brechter-media-bias,0.6111111111111112,3,Author,1,0,0,0,1,Medium,NA,NA,NA,NA
+Henry Payne (cartoonist),56,79,right,https://www.allsides.com/news-source/henry-payne-cartoonist,0.4148148148148148,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Herald Democrat,398,304,left,https://www.allsides.com/news-source/herald-democrat-0,0.5669515669515669,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Hirsh Joshi,0,0,left-center,https://www.allsides.com/news-source/hirsh-joshi-media-bias,NaN,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Honolulu Civil Beat,270,371,center,https://www.allsides.com/news-source/honolulu-civil-beat,0.42121684867394693,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+HotAir,941,840,right-center,https://www.allsides.com/news-source/hotair,0.5283548568220101,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/hotairblog,https://en.wikipedia.org/wiki/Hot_Air,https://facebook.com/hotaircom,hotairblog
+How Do We Fix It?,554,548,center,https://www.allsides.com/news-source/how-do-we-fix-it,0.5027223230490018,3,News Media,0,0,0,0,1,Medium,https://twitter.com/fixitshow,NA,https://www.facebook.com/profile.php?id=100009480370928,fixitshow
+Howard Kurtz,24,22,center,https://www.allsides.com/news-source/howard-kurtz-media-bias,0.5217391304347826,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Howard Kurtz,372,286,center,https://www.allsides.com/news-source/howard-kurtz,0.5653495440729484,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+HuffPost,20470,19857,left,https://www.allsides.com/news-source/huffpost-media-bias,0.5076003669997768,1,News Media,1,0,1,1,1,High,https://twitter.com/HuffPost,https://en.wikipedia.org/wiki/HuffPost,https://www.facebook.com/HuffPost,HuffPost
+Inacow,330,221,right,https://www.allsides.com/news-source/inacow,0.5989110707803993,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/inacowcom,NA,https://www.facebook.com/inacowcom,inacowcom
+Independent Institute,164,200,right-center,https://www.allsides.com/news-source/independent-institute,0.45054945054945056,4,Think Tank / Policy Group,0,0,0,0,1,Medium,https://twitter.com/IndependentInst,https://en.wikipedia.org/wiki/Independent_Institute,https://www.facebook.com/independentinstitute,IndependentInst
+Independent Journal Review,1143,1045,right-center,https://www.allsides.com/news-source/independent-journal-review,0.5223948811700183,4,News Media,0,0,0,0,1,Medium,https://twitter.com/ijreview,NA,https://www.facebook.com/IjReview,ijreview
+Indiana Daily Student,233,310,center,https://www.allsides.com/news-source/indiana-daily-student,0.429097605893186,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Indy Online,225,252,center,https://www.allsides.com/news-source/indy-online,0.4716981132075472,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Indy Week,255,300,left-center,https://www.allsides.com/news-source/indy-week,0.4594594594594595,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+InfoWars,4079,931,right,https://www.allsides.com/news-source/infowars,0.8141716566866267,5,News Media,0,0,0,0,1,Medium,https://twitter.com/infowars,"https://en.wikipedia.org/wiki/Alex_Jones_(radio_host) This is the page for Alex Jones//
+https://en.wikipedia.org/wiki/InfoWars Page for Infowars",https://www.facebook.com/InfoWars-80256732576/,infowars
+Inside Philanthropy,256,272,center,https://www.allsides.com/news-source/inside-philanthropy,0.48484848484848486,3,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Intellectual Conservative,317,327,right-center,https://www.allsides.com/news-source/intellectual-conservative,0.4922360248447205,4,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+International Business Times,945,705,center,https://www.allsides.com/news-source/international-business-times,0.5727272727272728,3,News Media,checked,0,0,0,0,NA,NA,https://en.wikipedia.org/wiki/International_Business_Times,NA,NA
+Investor's Business Daily,1067,850,right-center,https://www.allsides.com/news-source/investors-business-daily,0.5565988523735003,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/Investor%27s_Business_Daily,NA,NA
+IVN,371,359,center,https://www.allsides.com/news-source/ivn,0.5082191780821917,3,News Media,0,0,0,0,1,Medium,https://twitter.com/ivn,NA,https://www.facebook.com/IVN,ivn
+Jack Ohman (cartoonist),38,26,left,https://www.allsides.com/news-source/jack-ohman-cartoonist,0.59375,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jack Welch,78,58,right-center,https://www.allsides.com/news-source/jack-welch,0.5735294117647058,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jacobin,461,74,left,https://www.allsides.com/news-source/jacobin-media-bias,0.8616822429906542,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+James Hohmann,27,37,right-center,https://www.allsides.com/news-source/james-hohmann,0.421875,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+James Pethokoukis,59,67,right-center,https://www.allsides.com/news-source/james-pethokoukis,0.46825396825396826,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+James Poulos,47,27,right,https://www.allsides.com/news-source/james-poulos,0.6351351351351351,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Jeff Danziger (cartoonist),39,39,left,https://www.allsides.com/news-source/jeff-danziger-cartoonist,0.5,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jeff Jacoby,69,48,right,https://www.allsides.com/news-source/jeff-jacoby,0.5897435897435898,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Jeff Stahler (cartoonist),51,32,left,https://www.allsides.com/news-source/jeff-stahler-cartoonist,0.6144578313253012,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jen Sorensen (cartoonist),47,29,left,https://www.allsides.com/news-source/jen-sorensen-cartoonist,0.618421052631579,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jennifer Rubin,111,189,left-center,https://www.allsides.com/news-source/jennifer-rubin,0.37,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Jeremy E Sherman,11,11,left-center,https://www.allsides.com/news-source/jeremy-e-sherman-media-bias,0.5,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Jerry Bowyer,123,217,right,https://www.allsides.com/news-source/jerry-bowyer,0.36176470588235293,5,Author,checked,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Jerry Holbert (cartoonist),41,36,right,https://www.allsides.com/news-source/jerry-holbert-cartoonist,0.5324675324675324,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jesse Jackson,312,54,left,https://www.allsides.com/news-source/jesse-jackson,0.8524590163934426,1,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Jezebel,63,21,left,https://www.allsides.com/news-source/jezebel-media-bias,0.75,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Jim Morin (cartoonist),26,9,left,https://www.allsides.com/news-source/jim-morin-cartoonist,0.7428571428571429,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Jim Rutenberg,48,43,left-center,https://www.allsides.com/news-source/jim-rutenberg,0.5274725274725275,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Joan Blades,41,74,left,https://www.allsides.com/news-source/joan-blades,0.3565217391304348,1,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Joe Scarborough,131,548,right-center,https://www.allsides.com/news-source/joe-scarborough,0.19293078055964655,4,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Joel Pett (cartoonist),46,42,left,https://www.allsides.com/news-source/joel-pett-cartoonist,0.5227272727272727,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+John Boehner,153,235,right,https://www.allsides.com/news-source/john-boehner,0.3943298969072165,5,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+John Deering (cartoonist),34,41,center,https://www.allsides.com/news-source/john-deering-cartoonist,0.4533333333333333,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+John Fund,79,97,right-center,https://www.allsides.com/news-source/john-fund,0.44886363636363635,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+"John Gable, AllSides Founder",103,133,right-center,https://www.allsides.com/news-source/john-gable,0.4364406779661017,4,Author,1,0,0,0,1,Medium,NA,NA,NA,NA
+John K. Herr,37,32,right-center,https://www.allsides.com/news-source/john-k-herr,0.5362318840579711,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+John Pudner,50,74,right,https://www.allsides.com/news-source/john-pudner,0.4032258064516129,5,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+John Stossel,454,373,right-center,https://www.allsides.com/news-source/john-stossel,0.5489721886336155,4,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Jon Terbush,89,126,left-center,https://www.allsides.com/news-source/jon-terbush,0.413953488372093,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Jonah Goldberg,15,22,right,https://www.allsides.com/news-source/jonah-goldberg-media-bias,0.40540540540540543,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Jonathan Chait,79,72,left,https://www.allsides.com/news-source/jonathan-chait,0.5231788079470199,1,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Jonathan Miller,53,57,left,https://www.allsides.com/news-source/jonathan-miller,0.4818181818181818,1,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Journalist's Resource,218,253,center,https://www.allsides.com/news-source/journalists-resource,0.46284501061571126,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/journoresource,"https://en.wikipedia.org/wiki/Shorenstein_Center_on_Media,_Politics_and_Public_Policy",NA,journoresource
+Juan Williams,293,270,left-center,https://www.allsides.com/news-source/juan-williams,0.5204262877442274,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Jubilee Media,108,82,center,https://www.allsides.com/news-source/jubilee-media-bias,0.5684210526315789,3,News Media,0,0,0,0,1,NA,NA,NA,NA,NA
+Judicial Watch,969,1100,right-center,https://www.allsides.com/news-source/judicial-watch,0.4683421942967617,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@TomFitton,https://en.wikipedia.org/wiki/Judicial_Watch,https://www.facebook.com/JudicialWatch,TomFitton
+Julian Zelizer,109,138,left-center,https://www.allsides.com/news-source/julian-zelizer,0.44129554655870445,2,Author,checked,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Kathleen Parker,161,100,right-center,https://www.allsides.com/news-source/kathleen-parker,0.6168582375478927,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+KATU,7,10,center,https://www.allsides.com/news-source/katu-media-bias,0.4117647058823529,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Ken Catalino (cartoonist),13,18,right,https://www.allsides.com/news-source/ken-catalino-cartoonist,0.41935483870967744,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Kevin Kallaugher (cartoonist),16,13,left-center,https://www.allsides.com/news-source/kevin-kallaugher-cartoonist,0.5517241379310345,2,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Kimberley A. Strassel,128,87,right,https://www.allsides.com/news-source/kimberley-strassel,0.5953488372093023,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Kirsten Powers,57,39,left-center,https://www.allsides.com/news-source/kirsten-powers-media-bias,0.59375,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+KQED,396,330,center,https://www.allsides.com/news-source/kqed,0.5454545454545454,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/KQED,NA,NA
+KSL,804,603,right,https://www.allsides.com/news-source/ksl,0.5714285714285714,5,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Lalo Alcaraz (cartoonist),17,11,left,https://www.allsides.com/news-source/lalo-alcaraz-cartoonist,0.6071428571428571,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Lanhee Chen,45,66,right,https://www.allsides.com/news-source/lanhee-chen,0.40540540540540543,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Las Vegas Sun,225,234,left-center,https://www.allsides.com/news-source/las-vegas-sun,0.49019607843137253,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Laura Rose Junco,1,4,center,https://www.allsides.com/news-source/laura-rose-junco-media-bias,0.2,3,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Lauren Duca,58,31,left,https://www.allsides.com/news-source/lauren-duca,0.651685393258427,1,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Leesburg Today,164,137,right-center,https://www.allsides.com/news-source/leesburg-today,0.5448504983388704,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Left - Major Media Sources,513,380,left,https://www.allsides.com/news-source/left-major-publications,0.574468085106383,1,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Left Guest Commentaries,86,96,left,https://www.allsides.com/news-source/left-guest-commentaries,0.4725274725274725,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Leonard Pitts Jr,68,59,left,https://www.allsides.com/news-source/leonard-pitts-jr,0.5354330708661418,1,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Lifehacker,253,248,center,https://www.allsides.com/news-source/lifehacker,0.5049900199600799,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/Lifehacker,NA,NA
+Lisa Benson (cartoonist),43,42,right,https://www.allsides.com/news-source/lisa-benson-cartoonist,0.5058823529411764,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Lisa Gable,20,17,right,https://www.allsides.com/news-source/lisa-gable-media-bias,0.5405405405405406,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Listen First Project,82,61,allsides,https://www.allsides.com/news-source/listen-first-project-media-bias,0.5734265734265734,NA,News Media,0,0,0,0,1,High,https://twitter.com/ListenFirstProj,NA,https://www.facebook.com/ListenFirstProject/,ListenFirstProj
+Live Action News,217,139,right-center,https://www.allsides.com/news-source/live-action-news,0.6095505617977528,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/liveactionnews,https://en.wikipedia.org/wiki/Live_Action_(organization),https://www.facebook.com/liveactionnewsonline,liveactionnews
+Living Room Conversations,1031,1327,allsides,https://www.allsides.com/news-source/living-room-conversations,0.43723494486853265,NA,News Media,0,0,0,0,1,High,https://twitter.com/LivingRoomConvo,NA,https://www.facebook.com/LivingRoomConversations/,LivingRoomConvo
+Longmont Times-Call,123,131,left-center,https://www.allsides.com/news-source/longmont-times-call,0.484251968503937,2,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Los Angeles Times,4030,2974,left-center,https://www.allsides.com/news-source/los-angeles-times-bias,0.5753854940034266,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@TarynLuna,https://en.wikipedia.org/wiki/Los_Angeles_Times,https://www.facebook.com/latimes/,TarynLuna
+Louisville Courier-Journal,155,146,left-center,https://www.allsides.com/news-source/louisville-courier-journal,0.5149501661129569,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/The_Courier-Journal,NA,NA
+Manhattan Institute,147,235,right-center,https://www.allsides.com/news-source/manhattan-institute,0.38481675392670156,4,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Marc A. Thiessen,210,169,right,https://www.allsides.com/news-source/marc-thiessen,0.554089709762533,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Mark Gerzon,18,22,center,https://www.allsides.com/news-source/mark-gerzon,0.45,3,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Mark Mix,87,59,right,https://www.allsides.com/news-source/mark-mix,0.5958904109589042,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Mark Morford,22,13,left,https://www.allsides.com/news-source/morford-mark,0.6285714285714286,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+MarketWatch,29,48,right-center,https://www.allsides.com/news-source/marketwatch-media-bias,0.37662337662337664,4,News Media,0,0,0,0,1,Low or Initial Rating,"
+https://twitter.com/MarketWatch",https://en.wikipedia.org/wiki/MarketWatch,"
+https://www.facebook.com/marketwatch/",MarketWatch
+Marshall Ramsey (cartoonist),52,41,center,https://www.allsides.com/news-source/marshall-ramsey-cartoonist,0.5591397849462365,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Mary O'Grady,27,37,right,https://www.allsides.com/news-source/mary-ogrady,0.421875,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Mashable,342,120,left,https://www.allsides.com/news-source/mashable,0.7402597402597403,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Matt Bors (cartoonist),30,10,left,https://www.allsides.com/news-source/matt-bors-cartoonist,0.75,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Matt Davies (cartoonist),70,35,left,https://www.allsides.com/news-source/matt-davies-cartoonist,0.6666666666666666,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Matt Drudge,205,156,right,https://www.allsides.com/news-source/matt-drudge,0.5678670360110804,5,Author,0,0,0,0,0,Medium,NA,NA,NA,NA
+Matt Towery,45,41,right-center,https://www.allsides.com/news-source/matt-towery,0.5232558139534884,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Matt Welch,49,107,right-center,https://www.allsides.com/news-source/matt-welch,0.3141025641025641,4,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Matt Wuerker (cartoonist),58,34,left,https://www.allsides.com/news-source/matt-wuerker-cartoonist,0.6304347826086957,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Maureen Dowd,95,261,center,https://www.allsides.com/news-source/maureen-dowd,0.26685393258426965,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+McClatchyDC,9,10,center,https://www.allsides.com/news-source/mcclatchydc-media-bias,0.47368421052631576,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/McClatchyDC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://en.wikipedia.org/wiki/McClatchy,https://www.facebook.com/McClatchyDCBureau/,McClatchyDC
+Media Matters,2368,1494,left,https://www.allsides.com/news-source/media-matters-bias,0.61315380631797,1,News Media,0,0,0,0,0,NA,https://twitter.com/mmfa,https://en.wikipedia.org/wiki/Media_Matters_for_America,https://www.facebook.com/Mediamatters/?ref=br_rs,mmfa
+Media Research Center,1238,1526,right,https://www.allsides.com/news-source/media-research-center,0.4479015918958032,5,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Mediaite,615,631,left-center,https://www.allsides.com/news-source/mediaite-bias,0.49357945425361155,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@mediaite,https://en.wikipedia.org/wiki/Mediaite,https://www.facebook.com/mediaite/,mediaite
+Miami Herald,231,255,left-center,https://www.allsides.com/news-source/miami-herald,0.47530864197530864,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/MiamiHerald,https://en.wikipedia.org/wiki/Miami_Herald,https://www.facebook.com/miamiherald,MiamiHerald
+Michael Barone,106,83,right-center,https://www.allsides.com/news-source/michael-barone,0.5608465608465608,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Michael Brendan Dougherty,72,78,right-center,https://www.allsides.com/news-source/michael-brendan-dougherty,0.48,4,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Michael Gerson,123,106,right-center,https://www.allsides.com/news-source/michael-gerson,0.537117903930131,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Michael Goodwin,44,29,right,https://www.allsides.com/news-source/michael-goodwin,0.6027397260273972,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Michael Graham,8,14,right,https://www.allsides.com/news-source/michael-graham-media-bias,0.36363636363636365,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Michael Kinsley,71,55,left,https://www.allsides.com/news-source/michael-kinsley,0.5634920634920635,1,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Michael Medved,88,103,right,https://www.allsides.com/news-source/michael-medved,0.4607329842931937,5,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Michael Ramirez (cartoonist),41,51,right,https://www.allsides.com/news-source/michael-ramirez-cartoonist,0.44565217391304346,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Michelle Alexander,20,20,left-center,https://www.allsides.com/news-source/michelle-alexander-media-bias,0.5,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Michelle Malkin,332,179,right,https://www.allsides.com/news-source/michelle-malkin,0.649706457925636,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+MichelleMalkin.com,491,234,right,https://www.allsides.com/news-source/michellemalkincom,0.6772413793103448,5,News Media,0,0,0,0,1,NA,NA,https://en.wikipedia.org/wiki/MichelleMalkin.com,NA,NA
+Michigan Daily,187,164,left-center,https://www.allsides.com/news-source/michigan-daily,0.5327635327635327,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Mike Lester (cartoonist),14,7,right,https://www.allsides.com/news-source/mike-lester-cartoonist,0.6666666666666666,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Mike Luckovich (cartoonist),72,59,left,https://www.allsides.com/news-source/mike-luckovich-cartoonist,0.549618320610687,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Mike Thompson (cartoonist),40,55,center,https://www.allsides.com/news-source/mike-thompson-cartoonist,0.42105263157894735,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Mismatch.org,38,54,allsides,https://www.allsides.com/news-source/mismatchorg-media-bias,0.41304347826086957,NA,News Media,0,0,0,0,1,High,NA,NA,NA,NA
+MIT News,180,145,center,https://www.allsides.com/news-source/mit-news,0.5538461538461539,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/mit,NA,https://www.facebook.com/MITnews,mit
+Morgan Jacobsen,56,78,center,https://www.allsides.com/news-source/morgan-jacobsen,0.417910447761194,3,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Mother Jones,5412,1010,left,https://www.allsides.com/news-source/mother-jones-bias,0.8427281220803488,1,News Media,0,0,0,0,0,NA,https://twitter.com/MotherJones,https://en.wikipedia.org/wiki/Mother_Jones_(magazine),https://www.facebook.com/motherjones/,MotherJones
+MSNBC,5681,1923,left,https://www.allsides.com/news-source/msnbc,0.7471067859021567,1,News Media,0,0,0,1,1,Medium,https://twitter.com/@MSNBC,https://en.wikipedia.org/wiki/MSNBC,https://www.facebook.com/msnbc/,MSNBC
+MTV News Online,29,37,left-center,https://www.allsides.com/news-source/mtv-news-online-media-bias,0.4393939393939394,2,News Media,0,0,0,0,1,NA,NA,NA,NA,NA
+National Committee to Preserve Social Security and Medicare,184,187,left,https://www.allsides.com/news-source/national-committee-preserve-social-security-and-medicare,0.49595687331536387,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+National Interest,127,165,center,https://www.allsides.com/news-source/national-interest,0.4349315068493151,3,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/The_National_Interest,NA,NA
+National Journal,899,647,center,https://www.allsides.com/news-source/national-journal,0.5815006468305304,3,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+National Review,9338,4448,right,https://www.allsides.com/news-source/national-review,0.6773538372261715,5,News Media,0,0,0,0,1,Medium,https://twitter.com/NRO,https://en.wikipedia.org/wiki/National_Review,https://www.facebook.com/nationalreview/,NRO
+NBC Today Show,1026,1172,left-center,https://www.allsides.com/news-source/nbc-today-show,0.46678798908098273,2,News Media,checked,0,0,0,0,NA,https://twitter.com/@TODAYshow,https://en.wikipedia.org/wiki/TODAY.com,NA,TODAYshow
+NBCNews.com,4221,5408,left-center,https://www.allsides.com/news-source/nbc-news-media-bias,0.4383632775989199,2,News Media,0,0,0,1,1,Medium,https://twitter.com/@JoshNBCNews,https://en.wikipedia.org/wiki/NBC_News,https://www.facebook.com/NBCNews/,JoshNBCNews
+Neil J. Young,6,12,left-center,https://www.allsides.com/news-source/neil-j-young-media-bias,0.3333333333333333,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+New Economy Working Group,98,67,left-center,https://www.allsides.com/news-source/new-economy-working-group,0.593939393939394,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+New Republic,1254,673,left,https://www.allsides.com/news-source/new-republic,0.6507524649714582,1,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/newrepublic,https://en.wikipedia.org/wiki/The_New_Republic,https://www.facebook.com/newrepublic/,newrepublic
+New York Daily News,1015,450,left,https://www.allsides.com/news-source/new-york-daily-news,0.6928327645051194,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+New York Magazine,1711,785,left,https://www.allsides.com/news-source/new-york-magazine,0.6854967948717948,1,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/Intelligencer,https://en.wikipedia.org/wiki/New_York_(magazine),"
+https://www.facebook.com/NewYorkMag",Intelligencer
+New York Post,3669,2522,right,https://www.allsides.com/news-source/new-york-post,0.5926344693910516,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@nypost,https://en.wikipedia.org/wiki/New_York_Post,https://www.facebook.com/NYPost/,nypost
+New York Times - News,15675,25234,left-center,https://www.allsides.com/news-source/new-york-times,0.38316751815004035,2,News Media,1,0,1,1,1,High,https://twitter.com/@rpogrebin?ref_src=twsrc%5Etfw,https://en.wikipedia.org/wiki/The_New_York_Times,https://www.facebook.com/nytimes/,rpogrebin
+New York Times - Opinion,2716,840,left,https://www.allsides.com/news-source/new-york-times-opinion-media-bias,0.7637795275590551,1,News Media,1,0,0,0,1,High,https://twitter.com/@rpogrebin?ref_src=twsrc%5Etfw,https://en.wikipedia.org/wiki/The_New_York_Times,https://www.facebook.com/nytimes/,rpogrebin
+NewsBusters,288,162,right,https://www.allsides.com/news-source/newsbusters,0.64,5,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Newsmax,6840,8978,right,https://www.allsides.com/news-source/newsmax,0.43241876343406244,5,News Media,0,0,1,0,1,Medium,https://twitter.com/newsmax,https://en.wikipedia.org/wiki/Newsmax_Media,https://www.facebook.com/newsmax/?ref=br_rs,newsmax
+Newsweek,2037,2470,left-center,https://www.allsides.com/news-source/newsweek,0.451963612158864,2,News Media,0,0,0,0,0,Medium,https://twitter.com/@thedailybeast,https://en.wikipedia.org/wiki/The_Daily_Beast,https://www.facebook.com/thedailybeast/,thedailybeast
+Newt Gingrich,429,181,right,https://www.allsides.com/news-source/newt-gingrich,0.7032786885245902,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Nicholas Kristof,153,148,left,https://www.allsides.com/news-source/nicholas-kristof,0.5083056478405316,1,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Nick Anderson (cartoonist),30,46,center,https://www.allsides.com/news-source/nick-anderson-cartoonist,0.39473684210526316,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+NMPolitics.net,140,196,center,https://www.allsides.com/news-source/nmpoliticsnet,0.4166666666666667,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+No Labels,90,66,center,https://www.allsides.com/news-source/no-labels,0.5769230769230769,3,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Noah Rothman,22,16,right-center,https://www.allsides.com/news-source/noah-rothman-media-bias,0.5789473684210527,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+NPR Editorial,1859,1966,left-center,https://www.allsides.com/news-source/npr-editorial,0.48601307189542486,2,News Media,1,0,0,0,1,Low or Initial Rating,https://twitter.com/@NPR,https://en.wikipedia.org/wiki/NPR,https://www.facebook.com/NPR/,NPR
+NPR Online News,19422,14510,center,https://www.allsides.com/news-source/npr-media-bias,0.5723800542260993,3,News Media,1,0,1,1,1,Medium,https://twitter.com/@NPR,https://en.wikipedia.org/wiki/NPR,https://www.facebook.com/NPR/,NPR
+One America News Network,408,416,right-center,https://www.allsides.com/news-source/one-america-news-network-media-bias,0.49514563106796117,4,News Media,1,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+OpenSecrets.org,398,325,center,https://www.allsides.com/news-source/opensecretsorg,0.5504840940525588,3,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/OpenSecrets,NA,NA
+Orange County Register,197,163,right-center,https://www.allsides.com/news-source/orange-county-register,0.5472222222222223,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/ocregister,https://en.wikipedia.org/wiki/Orange_County_Register,https://www.facebook.com/ocregister,ocregister
+Pacific Research Institute,128,145,right,https://www.allsides.com/news-source/pacific-research-institute,0.46886446886446886,5,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Pacific Standard,336,294,left-center,https://www.allsides.com/news-source/pacific-standard,0.5333333333333333,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Pat Oliphant (cartoonist),42,49,center,https://www.allsides.com/news-source/pat-oliphant-cartoonist,0.46153846153846156,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Paul Krugman,307,193,left,https://www.allsides.com/news-source/paul-krugman,0.614,1,Author,0,0,0,0,1,High,NA,NA,NA,NA
+Paul Szep (cartoonist),50,44,center,https://www.allsides.com/news-source/paul-szep-cartoonist,0.5319148936170213,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+PBS NewsHour,2039,1494,center,https://www.allsides.com/news-source/pbs-newshour,0.5771299179167846,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/PBS_NewsHour,NA,NA
+Peacock Panache,145,75,left,https://www.allsides.com/news-source/peacock-panache,0.6590909090909091,1,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Peggy Noonan,239,322,right,https://www.allsides.com/news-source/peggy-noonan,0.42602495543672014,5,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+People for the American Way,175,112,left,https://www.allsides.com/news-source/people-american-way,0.6097560975609756,1,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Peter Roff,176,113,right-center,https://www.allsides.com/news-source/peter-roff,0.6089965397923875,4,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Peter Thiel,10,20,right-center,https://www.allsides.com/news-source/peter-thiel-media-bias,0.3333333333333333,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Physicians for a National Health Program,125,90,left,https://www.allsides.com/news-source/physicians-national-health-program,0.5813953488372093,1,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Piers Morgan,184,349,left-center,https://www.allsides.com/news-source/piers-morgan,0.3452157598499062,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Pittsburgh Post-Gazette,186,221,right-center,https://www.allsides.com/news-source/pittsburgh-post-gazette,0.457002457002457,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/PittsburghPG,https://en.wikipedia.org/wiki/Pittsburgh_Post-Gazette,https://www.facebook.com/pittsburghpostgazette,PittsburghPG
+PJ Media,95,79,right-center,https://www.allsides.com/news-source/pj-media-media-bias,0.5459770114942529,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+PJ Media,163,88,right,https://www.allsides.com/news-source/pj-media,0.649402390438247,5,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/PJ_Media,NA,NA
+Politico,13776,21465,left-center,https://www.allsides.com/news-source/politico-media-bias,0.39090831701711076,2,News Media,1,0,1,1,1,Medium,https://twitter.com/politico,https://en.wikipedia.org/wiki/Politico,https://www.facebook.com/politico/,politico
+PoliticusUSA,786,254,left,https://www.allsides.com/news-source/politicususa,0.7557692307692307,1,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/@politicususa,NA,https://www.facebook.com/PoliticusUSA/,politicususa
+PolitiFact,1520,2138,left-center,https://www.allsides.com/news-source/politifact,0.4155276107162384,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/politifact,https://en.wikipedia.org/wiki/PolitiFact,https://facebook.com/politifact,politifact
+Portland Press Herald,161,245,center,https://www.allsides.com/news-source/portland-press-herarld,0.39655172413793105,3,News Media,0,0,0,0,1,Medium,https://twitter.com/PressHerald,https://en.wikipedia.org/wiki/Portland_Press_Herald,https://www.facebook.com/pressherald/,PressHerald
+Prager University,1616,423,right,https://www.allsides.com/news-source/prager-university,0.7925453653751839,5,Think Tank / Policy Group,0,0,0,0,1,High,https://twitter.com/prageru?,NA,https://www.facebook.com/prageru/,prageru
+PRI (Public Radio International),610,346,center,https://www.allsides.com/news-source/pri-public-radio-international,0.6380753138075314,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+ProCon.org,2862,1673,allsides,https://www.allsides.com/news-source/proconorg,0.6310915104740904,NA,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Progressive Voices of Iowa,145,80,left,https://www.allsides.com/news-source/progressive-voices-iowa,0.6444444444444445,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,https://www.facebook.com/ProgressiveVoicesofIowa/,NA
+Project Veritas,31,46,right-center,https://www.allsides.com/news-source/project-veritas-media-bias,0.4025974025974026,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+ProPublica,839,531,center,https://www.allsides.com/news-source/propublica,0.6124087591240875,3,News Media,0,0,0,0,0,NA,https://twitter.com/@zahiratorres,https://en.wikipedia.org/wiki/ProPublica,NA,zahiratorres
+PXW News,126,132,center,https://www.allsides.com/news-source/pxw-news,0.4883720930232558,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/pxwnews,NA,NA,pxwnews
+Quartz,473,424,center,https://www.allsides.com/news-source/quartz,0.5273132664437012,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Quillette,282,482,right-center,https://www.allsides.com/news-source/quillette-media-bias,0.36910994764397903,4,News Media,1,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Rachel Eckhardt,26,42,left-center,https://www.allsides.com/news-source/rachel-eckhardt,0.38235294117647056,2,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Rahm Emanuel,9,34,left-center,https://www.allsides.com/news-source/rahm-emanuel-media-bias,0.20930232558139536,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Ralph Benko,43,69,right,https://www.allsides.com/news-source/ralph-benko,0.38392857142857145,5,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Ramesh Ponnuru,107,74,right,https://www.allsides.com/news-source/ramesh-ponnuru,0.5911602209944752,5,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+RAND Corporation,389,495,left-center,https://www.allsides.com/news-source/rand-corporation,0.44004524886877827,2,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Rand Paul,363,309,right-center,https://www.allsides.com/news-source/rand-paul,0.5401785714285714,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Rasmussen Reports,451,656,center,https://www.allsides.com/news-source/rasmussen-reports,0.4074074074074074,3,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Raw Story,491,297,left,https://www.allsides.com/news-source/raw-story,0.6230964467005076,1,News Media,checked,0,0,0,0,NA,https://twitter.com/RawStory,https://en.wikipedia.org/wiki/The_Raw_Story,https://www.facebook.com/TheRawStory/,RawStory
+RealClearPolitics,2787,2415,center,https://www.allsides.com/news-source/real-clear-politics,0.5357554786620531,3,News Media,0,0,0,0,0,NA,https://twitter.com/RealClearNews,https://en.wikipedia.org/wiki/RealClearPolitics,https://www.facebook.com/realclearpolitics/,RealClearNews
+Reason,5258,3529,right-center,https://www.allsides.com/news-source/reason,0.5983839763286674,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/reason,https://en.wikipedia.org/wiki/Reason.com,https://facebook.com/Reason.Magazine,reason
+Reason Foundation,115,121,right-center,https://www.allsides.com/news-source/reason-foundation,0.4872881355932203,4,Think Tank / Policy Group,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Record Journal,102,117,center,https://www.allsides.com/news-source/record-journal,0.4657534246575342,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Red State,601,199,right,https://www.allsides.com/news-source/red-state,0.75125,5,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+redefinED,127,66,center,https://www.allsides.com/news-source/redefined,0.6580310880829016,3,Think Tank / Policy Group,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Rem Reider,70,90,center,https://www.allsides.com/news-source/rem-reider,0.4375,3,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Reuters,6834,4515,center,https://www.allsides.com/news-source/reuters,0.6021675918583135,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@Reuters,https://en.wikipedia.org/wiki/Reuters,https://www.facebook.com/Reuters/,Reuters
+Rich Lowry,187,173,right,https://www.allsides.com/news-source/rich-lowry-syndicated-columnist,0.5194444444444445,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Rich Tafel,67,62,center,https://www.allsides.com/news-source/rich-tafel,0.5193798449612403,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Rich Zeoli,62,56,right-center,https://www.allsides.com/news-source/rich-zeoli,0.5254237288135594,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Richard A. Lowry,73,52,right,https://www.allsides.com/news-source/richard-lowry,0.584,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Richard M. Cohen,30,15,left-center,https://www.allsides.com/news-source/richard-cohen,0.6666666666666666,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Richmond Times Dispatch,205,153,right-center,https://www.allsides.com/news-source/richmond-times-dispatch,0.5726256983240223,4,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/Richmond_Times-Dispatch,https://www.facebook.com/TimesDispatch/,NA
+Rick Ungar,128,124,left-center,https://www.allsides.com/news-source/rick-ungar,0.5079365079365079,2,Author,0,0,0,0,1,NA,NA,NA,NA,NA
+Right - Major Media Sources,261,252,right,https://www.allsides.com/news-source/right-major-publications,0.5087719298245614,5,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Right Guest Commentaries,54,46,right,https://www.allsides.com/news-source/right-guest-commentaries,0.54,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Right Side News,406,197,right,https://www.allsides.com/news-source/right-side-news,0.6733001658374793,5,News Media,checked,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Right Wing News,352,153,right,https://www.allsides.com/news-source/right-wing-news,0.697029702970297,5,News Media,0,0,0,0,1,High,NA,NA,NA,NA
+Rob Rogers (cartoonist),67,13,left,https://www.allsides.com/news-source/rob-rogers-cartoonist,0.8375,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Robert Ariail (cartoonist),52,58,center,https://www.allsides.com/news-source/robert-ariail-cartoonist,0.4727272727272727,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Robert Samuelson,103,113,center,https://www.allsides.com/news-source/robert-samuelson,0.47685185185185186,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Roll Call,71,69,center,https://www.allsides.com/news-source/roll-call-media-bias,0.5071428571428571,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+RollingStone.com,1344,364,left,https://www.allsides.com/news-source/rolling-stone,0.7868852459016393,1,News Media,0,0,0,0,0,NA,http://twitter.com/rollingstone,https://en.wikipedia.org/wiki/Rolling_Stone,NA,rollingstone
+Ross Douthat,116,76,right-center,https://www.allsides.com/news-source/ross-douthat,0.6041666666666666,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Ruth Marcus,125,132,left-center,https://www.allsides.com/news-source/ruth-marcus,0.48638132295719844,2,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Ryan Cooper,258,69,left,https://www.allsides.com/news-source/ryan-cooper,0.7889908256880734,1,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Ryan Cooper,71,42,left,https://www.allsides.com/news-source/ryan-cooper-0,0.6283185840707964,1,Author,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Sally Pipes,206,89,right,https://www.allsides.com/news-source/sally-pipes,0.6983050847457627,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Salon,10912,4980,left,https://www.allsides.com/news-source/salon,0.6866347847973824,1,News Media,0,0,0,0,1,Medium,https://twitter.com/Salon,https://en.wikipedia.org/wiki/Salon_(website),https://www.facebook.com/salon/,Salon
+San Francisco Chronicle,843,278,left,https://www.allsides.com/news-source/san-francisco-chronicle,0.752007136485281,1,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+San Jose Mercury News,333,362,left-center,https://www.allsides.com/news-source/san-jose-mercury-news,0.479136690647482,2,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/mercnews,https://en.wikipedia.org/wiki/The_Mercury_News,https://www.facebook.com/mercurynews,mercnews
+SBG,50,45,center,https://www.allsides.com/news-source/sbg,0.5263157894736842,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Science Daily,396,242,center,https://www.allsides.com/news-source/science-daily,0.6206896551724138,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/ScienceDaily,https://en.wikipedia.org/wiki/ScienceDaily,https://www.facebook.com/sciencedaily/,ScienceDaily
+Scientific American,947,453,center,https://www.allsides.com/news-source/scientific-american,0.6764285714285714,3,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/sciam,https://en.wikipedia.org/wiki/Scientific_American,https://www.facebook.com/ScientificAmerican/,sciam
+Scott Adams,15,17,center,https://www.allsides.com/news-source/scott-adams-media-bias,0.46875,3,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Scott Stantis (cartoonist),36,54,right,https://www.allsides.com/news-source/scott-stantis-cartoonist,0.4,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+SF Weekly,209,282,center,https://www.allsides.com/news-source/sf-weekly,0.4256619144602851,3,News Media,checked,0,0,0,0,NA,NA,https://en.wikipedia.org/wiki/SF_Weekly,NA,NA
+SFGate,385,433,left-center,https://www.allsides.com/news-source/sf-gate,0.4706601466992665,2,News Media,0,0,0,0,0,NA,https://twitter.com/sfgate/,https://en.wikipedia.org/wiki/San_Francisco_Chronicle,https://www.facebook.com/SFGate/,sfgate
+Signe Wilkinson (cartoonist),25,17,left,https://www.allsides.com/news-source/signe-wilkinson-cartoonist,0.5952380952380952,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Sky-Hi Daily News,114,96,left-center,https://www.allsides.com/news-source/sky-hi-daily-news,0.5428571428571428,2,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+Slate,3325,2384,left,https://www.allsides.com/news-source/slate,0.5824137327027501,1,News Media,1,0,0,1,1,Low or Initial Rating,https://twitter.com/Slate,https://en.wikipedia.org/wiki/Slate_(magazine),https://www.facebook.com/Slate/,Slate
+Small World (cartoonist),14,25,left,https://www.allsides.com/news-source/small-world-cartoonist,0.358974358974359,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Smerconish,94,140,center,https://www.allsides.com/news-source/smerconish-media-bias,0.4017094017094017,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Socialist Alternative,387,168,left,https://www.allsides.com/news-source/socialist-alternative,0.6972972972972973,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Socialist Project/The Bullet,336,146,left,https://www.allsides.com/news-source/socialist-projectthe-bullet,0.6970954356846473,1,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Splinter,157,41,left,https://www.allsides.com/news-source/splinter-media-bias,0.7929292929292929,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Spokesman Review,164,181,left-center,https://www.allsides.com/news-source/spokesman-review,0.4753623188405797,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/SpokesmanReview,NA,https://www.facebook.com/spokesmanreview/,SpokesmanReview
+State Journal,137,194,left-center,https://www.allsides.com/news-source/state-journal,0.41389728096676737,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Steve Benson (cartoonist),51,47,left,https://www.allsides.com/news-source/steve-benson-cartoonist,0.5204081632653061,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Steve Breen (cartoonist),51,40,center,https://www.allsides.com/news-source/steve-breen-cartoonist,0.5604395604395604,3,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Steve Kelley (cartoonist),28,30,right,https://www.allsides.com/news-source/steve-kelley-cartoonist,0.4827586206896552,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Steve Sack (cartoonist),41,22,left,https://www.allsides.com/news-source/steve-sack-cartoonist,0.6507936507936508,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+StoryCorps,11,11,allsides,https://www.allsides.com/news-source/storycorps-media-bias,0.5,NA,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Stuart Carlson (cartoonist),22,31,left,https://www.allsides.com/news-source/stuart-carlson-cartoonist,0.41509433962264153,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Subverse,10,0,center,https://www.allsides.com/news-source/subverse-media-bias,1,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Suspend Belief Podcast,117,144,allsides,https://www.allsides.com/news-source/suspend-belief-podcast,0.4482758620689655,NA,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,https://www.facebook.com/SuspendBelief/?fref=ts,NA
+Tallahassee Democrat,194,185,center,https://www.allsides.com/news-source/tallahassee-democrat,0.5118733509234829,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+TechCrunch,329,199,center,https://www.allsides.com/news-source/techcrunch-media-bias,0.6231060606060606,3,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/TechCrunch?ref_src=twsrcgoogletwcampserptwgrauthor,https://en.wikipedia.org/wiki/TechCrunch,https://www.facebook.com/techcrunch/,TechCrunch
+Ted Rall (cartoonist),37,25,left,https://www.allsides.com/news-source/ted-rall-cartoonist,0.5967741935483871,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Teen Vogue,269,404,left-center,https://www.allsides.com/news-source/teen-vogue,0.399702823179792,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Test Source,112,123,center,https://www.allsides.com/news-source/test-source,0.4765957446808511,3,News Media,checked,0,0,0,0,NA,https://twitter.com/FoxNews,https://en.wikipedia.org/wiki/Fox_News,https://www.facebook.com/FoxNews/,FoxNews
+The Advocate-Messenger,129,166,left-center,https://www.allsides.com/news-source/advocate-messenger,0.43728813559322033,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+The American Conservative,137,160,right-center,https://www.allsides.com/news-source/american-conservative-media-bias,0.4612794612794613,4,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/The_American_Conservative,NA,NA
+The Atlantic,4533,2681,left-center,https://www.allsides.com/news-source/atlantic,0.6283615192680898,2,News Media,0,0,0,0,0,NA,https://twitter.com/TheAtlantic,https://en.wikipedia.org/wiki/The_Atlantic,https://www.facebook.com/TheAtlantic/,TheAtlantic
+The Boston Globe,1428,1090,left-center,https://www.allsides.com/news-source/boston-globe,0.5671167593328038,2,News Media,0,0,0,0,1,High,https://twitter.com/BostonGlobe,https://en.wikipedia.org/wiki/The_Boston_Globe,https://www.facebook.com/globe,BostonGlobe
+The Cadiz Record,143,151,left-center,https://www.allsides.com/news-source/cadiz-record,0.48639455782312924,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+The Canyon County Zephyr,138,109,left,https://www.allsides.com/news-source/canyon-county-zephry,0.5587044534412956,1,News Media,0,0,0,0,1,High,NA,NA,https://www.facebook.com/FansoftheCanyonCountryZephyr,NA
+The College Fix,106,87,right,https://www.allsides.com/news-source/college-fix,0.5492227979274611,5,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Commercial Appeal,118,171,left-center,https://www.allsides.com/news-source/commercial-appeal,0.4083044982698962,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Courier-Journal,88,184,left-center,https://www.allsides.com/news-source/courier-journal,0.3235294117647059,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/The_Courier-Journal,NA,NA
+The Daily Caller,4658,2549,right,https://www.allsides.com/news-source/daily-caller,0.6463160815873457,5,News Media,1,0,0,0,1,Medium,https://twitter.com/@ChuckRossDC,https://en.wikipedia.org/wiki/The_Daily_Caller,https://www.facebook.com/DailyCaller/,ChuckRossDC
+The Daily Show (humor),838,1105,left-center,https://www.allsides.com/news-source/daily-show,0.43129181677817807,2,News Media,checked,0,0,0,0,NA,https://twitter.com/@TheDailyShow,NA,NA,TheDailyShow
+The Daily Signal,241,73,right,https://www.allsides.com/news-source/daily-signal,0.767515923566879,5,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Daily Wire,2719,1344,right,https://www.allsides.com/news-source/daily-wire,0.6692099433915826,5,News Media,0,0,0,0,1,Medium,https://twitter.com/realDailyWire,https://en.wikipedia.org/wiki/The_Daily_Wire,https://www.facebook.com/DailyWire/,realDailyWire
+The Dallas Morning News,74,51,center,https://www.allsides.com/news-source/dallas-morning-news,0.592,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/dallasnews,https://en.wikipedia.org/wiki/The_Dallas_Morning_News,https://www.facebook.com/dallasmorningnews,dallasnews
+The Delaware County Daily Times,144,163,left-center,https://www.allsides.com/news-source/delaware-county-daily-times,0.46905537459283386,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Economist,1612,3004,left-center,https://www.allsides.com/news-source/economist,0.3492201039861352,2,News Media,0,0,0,1,1,NA,https://twitter.com/TheEconomist,https://en.wikipedia.org/wiki/The_Economist,https://www.facebook.com/TheEconomist,TheEconomist
+The Epoch Times,731,352,right,https://www.allsides.com/news-source/epoch-times-media-bias,0.6749769159741459,5,News Media,1,0,0,0,1,Medium,NA,https://en.wikipedia.org/wiki/Www.theepochtimes.com,NA,NA
+The Federalist,2459,1211,right,https://www.allsides.com/news-source/federalist,0.6700272479564032,5,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/@seanmdav,https://en.wikipedia.org/wiki/The_Federalist_(website),https://www.facebook.com/fdrlst/,seanmdav
+The Flip Side,226,183,allsides,https://www.allsides.com/news-source/flip-side-media-bias,0.5525672371638142,NA,News Media,0,0,0,0,1,High,NA,NA,NA,NA
+The Fulcrum,8,13,center,https://www.allsides.com/news-source/fulcrum-media-bias,0.38095238095238093,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+The Gateway Pundit,458,335,right,https://www.allsides.com/news-source/gateway-pundit,0.5775535939470365,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/gatewaypundit,https://en.wikipedia.org/wiki/The_Gateway_Pundit,https://www.facebook.com/gatewaypundit,gatewaypundit
+The Guardian,6067,3885,left-center,https://www.allsides.com/news-source/guardian,0.6096262057877814,2,News Media,0,0,0,0,1,Medium,https://twitter.com/guardian,https://en.wikipedia.org/wiki/TheGuardian.com - https://en.wikipedia.org/wiki/The_Guardian,https://www.facebook.com/theguardian/,guardian
+The Heritage Foundation,2327,1336,right-center,https://www.allsides.com/news-source/heritage-foundation,0.6352716352716353,4,Think Tank / Policy Group,0,0,0,0,0,NA,NA,https://en.wikipedia.org/wiki/The_Heritage_Foundation,NA,NA
+The Hill,7444,9180,center,https://www.allsides.com/news-source/hill-media-bias,0.44778633301251203,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@thehill,https://en.wikipedia.org/wiki/The_Hill_(newspaper),https://www.facebook.com/TheHill,thehill
+The Independent,74,74,left-center,https://www.allsides.com/news-source/independent-0,0.5,2,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+The Intercept,1213,633,left,https://www.allsides.com/news-source/intercept,0.6570964247020585,1,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/theintercept,https://en.wikipedia.org/wiki/The_Intercept,https://www.facebook.com/theinterceptflm,theintercept
+The Jerusalem Post,97,98,center,https://www.allsides.com/news-source/jerusalem-post-media-bias,0.49743589743589745,3,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+The Justice,104,116,left-center,https://www.allsides.com/news-source/justice,0.4727272727272727,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Korea Herald,135,76,center,https://www.allsides.com/news-source/korea-herald,0.6398104265402843,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Libertarian Republic,771,626,right-center,https://www.allsides.com/news-source/libertarian-republic,0.5518969219756621,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Nation,977,310,left,https://www.allsides.com/news-source/nation,0.7591297591297591,1,News Media,0,0,0,0,0,NA,https://twitter.com/thenation,https://en.wikipedia.org/wiki/The_Nation,https://www.facebook.com/thenationdaily/,thenation
+The New Yorker,2435,762,left,https://www.allsides.com/news-source/new-yorker,0.7616515483265561,1,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/NewYorker,https://en.wikipedia.org/wiki/The_New_Yorker,https://www.facebook.com/newyorker/,NewYorker
+The Observer (New York),170,314,center,https://www.allsides.com/news-source/observer,0.3512396694214876,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/observer?lang=en,https://en.wikipedia.org/wiki/New_York_Observer,https://www.facebook.com/observer,observer
+The Oracle,49,88,center,https://www.allsides.com/news-source/oracle,0.35766423357664234,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Philadelphia Inquirer,53,76,left-center,https://www.allsides.com/news-source/phillycom,0.4108527131782946,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/phillydotcom,https://en.wikipedia.org/wiki/Philadelphia_Media_Network,https://www.facebook.com/phillydotcom?ref=facebook.com,phillydotcom
+The Post Millennial,38,21,right-center,https://www.allsides.com/news-source/post-millennial-media-bias,0.6440677966101694,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Red and Black,113,80,center,https://www.allsides.com/news-source/red-and-black,0.5854922279792746,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/The_Red_and_Black,NA,NA
+The Reliable Bias,62,102,center,https://www.allsides.com/news-source/reliable-bias,0.3780487804878049,3,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+The Republican,145,359,center,https://www.allsides.com/news-source/republican,0.2876984126984127,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Resurgent,26,16,right,https://www.allsides.com/news-source/resurgent-media-bias,0.6190476190476191,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@EWErickson,NA,NA,EWErickson
+The Root,216,295,left-center,https://www.allsides.com/news-source/root,0.4227005870841487,2,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+The Sacramento Bee,228,234,left-center,https://www.allsides.com/news-source/sacramento-bee,0.4935064935064935,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/sacbee_news/,https://en.wikipedia.org/wiki/The_Sacramento_Bee,https://www.facebook.com/sacramentobee,sacbee_news
+The Saturday Evening Post,112,72,center,https://www.allsides.com/news-source/saturday-evening-post,0.6086956521739131,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+The Telegraph - UK,597,349,right-center,https://www.allsides.com/news-source/telegraph-uk,0.63107822410148,4,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/telegraph,https://en.wikipedia.org/wiki/The_Daily_Telegraph,https://www.facebook.com/TELEGRAPH.CO.UK/,telegraph
+The Texas Observer,11,12,left-center,https://www.allsides.com/news-source/texas-observer-media-bias,0.4782608695652174,2,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+The Verge,438,276,left-center,https://www.allsides.com/news-source/verge,0.6134453781512605,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/verge,https://en.wikipedia.org/wiki/The_Verge,https://www.facebook.com/verge,verge
+The Week - News,3017,2266,center,https://www.allsides.com/news-source/the-week-bias,0.5710770395608555,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/TheWeek,https://en.wikipedia.org/wiki/The_Week,https://www.facebook.com/theweek/,TheWeek
+The Weekly Standard,1253,732,right,https://www.allsides.com/news-source/weekly-standard,0.6312342569269521,5,News Media,0,0,0,0,1,High,NA,https://en.wikipedia.org/wiki/The_Weekly_Standard,NA,NA
+TheBlaze.com,29759,23159,right,https://www.allsides.com/news-source/theblaze-bias,0.5623606334328584,5,News Media,0,0,0,1,1,Medium,https://twitter.com/theblaze,https://en.wikipedia.org/wiki/TheBlaze,https://www.facebook.com/theblaze/,theblaze
+ThinkProgress,2557,798,left,https://www.allsides.com/news-source/thinkprogress-bias,0.7621460506706408,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/ThinkProgress,https://www.facebook.com/thinkprogress,NA
+Thomas Frank,117,131,left-center,https://www.allsides.com/news-source/thomas-frank,0.4717741935483871,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Thomas Sowell,261,190,right-center,https://www.allsides.com/news-source/thomas-sowell,0.5787139689578714,4,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Tim Groseclose,74,39,right-center,https://www.allsides.com/news-source/tim-groseclose,0.6548672566371682,4,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Tim Pool,117,56,center,https://www.allsides.com/news-source/tim-pool-media-bias,0.6763005780346821,3,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+Time Magazine,4191,3477,left-center,https://www.allsides.com/news-source/time-magazine-news-media-bias,0.5465571205007824,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/TIME,https://en.wikipedia.org/wiki/Time_(magazine),https://www.facebook.com/time/,TIME
+Tom Cole,129,72,right,https://www.allsides.com/news-source/tom-cole,0.6417910447761194,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Tom Nichols,1,6,right-center,https://www.allsides.com/news-source/tom-nichols-media-bias,0.14285714285714285,4,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Tom Toles (cartoonist),50,39,left,https://www.allsides.com/news-source/tom-toles-cartoonist,0.5617977528089888,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Tony Auth (cartoonist),42,38,left,https://www.allsides.com/news-source/tony-auth,0.525,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+Townhall,8940,13747,right,https://www.allsides.com/news-source/townhall-bias,0.3940582712566668,5,News Media,0,0,0,0,1,Medium,https://twitter.com/townhallcom,https://en.wikipedia.org/wiki/Townhall,https://www.facebook.com/townhallcom/,townhallcom
+Truth or Fiction,210,170,center,https://www.allsides.com/news-source/truth-or-fiction,0.5526315789473685,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Truthdig,14,3,left,https://www.allsides.com/news-source/truthdig-media-bias,0.8235294117647058,1,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/Truthdig?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://en.wikipedia.org/wiki/Truthdig,https://www.facebook.com/Truthdig/,Truthdig
+TruthOut,280,299,left-center,https://www.allsides.com/news-source/truthout,0.4835924006908463,2,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA
+Tucker Carlson,81,55,right,https://www.allsides.com/news-source/tucker-carlson-media-bias,0.5955882352941176,5,Author,0,0,0,0,1,Medium,NA,NA,NA,NA
+U.S. News & World Report,1448,1628,left-center,https://www.allsides.com/news-source/us-news-and-world-report,0.47074122236671,2,News Media,0,0,0,0,0,Low or Initial Rating,https://twitter.com/usnews,https://en.wikipedia.org/wiki/U.S._News_%26_World_Report,https://www.facebook.com/usnewsandworldreport,usnews
+Univision,290,361,left-center,https://www.allsides.com/news-source/univision,0.445468509984639,2,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Upworthy,386,262,left,https://www.allsides.com/news-source/upworthy,0.595679012345679,1,News Media,0,0,0,0,1,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/Upworthy,NA,NA
+USA TODAY,12275,9878,center,https://www.allsides.com/news-source/usa-today-media-bias,0.5541010246919154,3,News Media,0,0,1,1,1,High,https://twitter.com/@USATODAY?ref_src=twsrc%5Etfw,https://en.wikipedia.org/wiki/USA_Today,https://www.facebook.com/usatoday/,USATODAY
+Vanity Fair,3331,2146,left-center,https://www.allsides.com/news-source/vanity-fair,0.6081796603980281,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/HWD,https://en.wikipedia.org/wiki/Vanity_Fair_(magazine),https://www.facebook.com/vanityfairmagazine/,HWD
+Vice,1043,312,left,https://www.allsides.com/news-source/vice-media-bias,0.7697416974169742,1,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Victor Hanson,135,147,right-center,https://www.allsides.com/news-source/victor-hanson,0.4787234042553192,4,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Volante,108,118,center,https://www.allsides.com/news-source/volante,0.4778761061946903,3,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Vote Smart,189,204,center,https://www.allsides.com/news-source/vote-smark,0.48091603053435117,3,Think Tank / Policy Group,0,0,0,0,0,NA,NA,NA,NA,NA
+Vox,12519,12386,left,https://www.allsides.com/news-source/vox-news-media-bias,0.5026701465569163,1,News Media,0,0,0,0,1,High,https://twitter.com/@atrupar,https://en.wikipedia.org/wiki/Vox_(website),https://www.facebook.com/Vox,atrupar
+VT Digger,117,150,left-center,https://www.allsides.com/news-source/vt-digger,0.43820224719101125,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/vtdigger,NA,https://www.facebook.com/vtdigger,vtdigger
+Wake Up to Politics,21,16,center,https://www.allsides.com/news-source/wake-politics-media-bias,0.5675675675675675,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/wakeup2politics,NA,https://www.facebook.com/WakeUpToPolitics/,wakeup2politics
+Wall Street Journal - Editorial,5061,3729,right-center,https://www.allsides.com/news-source/wall-street-journal-opinion,0.5757679180887372,4,News Media,0,0,0,0,1,High,NA,NA,NA,NA
+Wall Street Journal - News,12470,17840,center,https://www.allsides.com/news-source/wall-street-journal-media-bias,0.41141537446387333,3,News Media,0,0,1,1,1,High,https://twitter.com/WSJ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://en.wikipedia.org/wiki/The_Wall_Street_Journal,https://www.facebook.com/wsj,WSJ
+Walt Handelsman (cartoonist),67,77,left,https://www.allsides.com/news-source/walt-handelsman-cartoonist,0.4652777777777778,1,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+WANDTV,0,0,center,https://www.allsides.com/news-source/wandtv-media-bias,NaN,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Washington Examiner,5011,2681,right-center,https://www.allsides.com/news-source/washington-examiner,0.6514560582423297,4,News Media,0,0,0,0,1,Medium,https://twitter.com/@dcexaminer,https://en.wikipedia.org/wiki/The_Washington_Examiner,https://www.facebook.com/WashingtonExaminer/,dcexaminer
+Washington Free Beacon,437,443,right,https://www.allsides.com/news-source/washington-free-beacon,0.4965909090909091,5,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/@elianayjohnson,https://en.wikipedia.org/wiki/Washington_Free_Beacon,NA,elianayjohnson
+Washington Monthly,167,149,left-center,https://www.allsides.com/news-source/washington-monthly,0.5284810126582279,2,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/washmonthly,https://en.wikipedia.org/wiki/Washington_Monthly,https://www.facebook.com/WashingtonMonthly/,washmonthly
+Washington Post,24245,15197,left-center,https://www.allsides.com/news-source/washington-post-media-bias,0.6147000659195782,2,News Media,0,0,1,1,1,High,https://twitter.com/@farhip,https://en.wikipedia.org/wiki/The_Washington_Post,https://www.facebook.com/washingtonpost/,farhip
+Washington Times,21112,10655,right-center,https://www.allsides.com/news-source/washington-times-bias,0.6645890389397803,4,News Media,0,0,1,0,1,Medium,https://twitter.com/WashTimes,https://en.wikipedia.org/wiki/The_Washington_Times,https://www.facebook.com/TheWashingtonTimes/,WashTimes
+Watchdog.org,477,512,right-center,https://www.allsides.com/news-source/watchdogorg,0.48230535894843274,4,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Western Journalism,818,354,right,https://www.allsides.com/news-source/western-journalism,0.6979522184300341,5,News Media,0,0,0,0,1,Medium,NA,NA,https://www.facebook.com/WesternJournalism/,NA
+WFAE,116,139,center,https://www.allsides.com/news-source/wfae,0.4549019607843137,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,https://en.wikipedia.org/wiki/WFAE,NA,NA
+WGBH,289,238,center,https://www.allsides.com/news-source/wgbh,0.5483870967741935,3,News Media,0,0,0,0,1,Low or Initial Rating,https://twitter.com/wgbh,NA,https://www.facebook.com/WGBHBoston/,wgbh
+WGN,1,2,center,https://www.allsides.com/news-source/wgn-media-bias,0.3333333333333333,3,News Media,0,0,0,0,0,Low or Initial Rating,NA,NA,NA,NA
+Whatfinger News,65,47,right,https://www.allsides.com/news-source/whatfinger-news-media-bias,0.5803571428571429,5,News Media,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+Whitehouse.gov,405,476,right-center,https://www.allsides.com/news-source/whitehousegov,0.45970488081725314,4,Think Tank / Policy Group,0,0,0,0,0,Low or Initial Rating,https://twitter.com/@WhiteHouse,NA,NA,WhiteHouse
+Willam A. Galston,79,77,left-center,https://www.allsides.com/news-source/willam-galston,0.5064102564102564,2,Author,0,0,0,0,1,Low or Initial Rating,NA,NA,NA,NA
+William Bennett,95,132,right,https://www.allsides.com/news-source/william-bennett,0.4185022026431718,5,Author,checked,0,0,0,0,NA,NA,NA,NA,NA
+William McGurn,75,35,right,https://www.allsides.com/news-source/william-mcgurn,0.6818181818181818,5,Author,0,0,0,0,0,NA,NA,NA,NA,NA
+Wisconsin Gazette,168,149,left-center,https://www.allsides.com/news-source/wisconsin-gazette,0.5299684542586751,2,News Media,0,0,0,0,0,NA,NA,NA,NA,NA
+WND.com,439,178,right,https://www.allsides.com/news-source/wndcom,0.7115072933549432,5,News Media,0,0,0,0,1,High,NA,https://en.wikipedia.org/wiki/WND,NA,NA
+Yahoo! News,1740,1393,left-center,https://www.allsides.com/news-source/yahoo-news-media-bias,0.5553782317267795,2,News Media,1,0,0,1,0,Medium,NA,NA,NA,NA
+Yahoo! The 360,6,4,allsides,https://www.allsides.com/news-source/yahoo-360-media-bias,0.6,NA,News Media,1,0,0,0,1,Medium,NA,NA,NA,NA
+Yes! Magazine,354,166,left,https://www.allsides.com/news-source/yes-magazine,0.6807692307692308,1,News Media,checked,0,0,0,0,NA,NA,NA,NA,NA

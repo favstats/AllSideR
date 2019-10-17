@@ -1,0 +1,240 @@
+---
+title: "Tidy Template"
+author: "Fabio Votta"
+date: "The Date"
+output: html_document
+---
+
+This script is about:
+
+
+
+## Packages and Folders
+
+```{r}
+# Install these packages if you don't have them yet
+# if (!require("pacman")) install.packages("pacman")
+# devtools::install_github("favstats/tidytemplate")
+pacman::p_load(tidyverse, tidytemplate, rvest, RSelenium)
+
+# Creates folders
+# tidytemplate::data_dir()
+# tidytemplate::images_dir()
+```
+
+
+## Load Data
+
+```{r, data}
+
+allsides_url <- "https://www.allsides.com/media-bias/media-bias-ratings"
+
+
+remDr <- followR::get_driver(32785)
+
+remDr$navigate(allsides_url)
+
+all_sources <- remDr$findElement("css selector","#edit-field-featured-bias-rating-value > div:nth-child(1) > label")
+
+all_sources$clickElement()
+
+author_select <- remDr$findElement("css selector","#edit-field-news-source-type-tid > div.form-item.form-type-checkbox.form-item-field-news-source-type-tid-1 > label")
+
+author_select$clickElement()
+
+thinktank_select <- remDr$findElement("css selector","#edit-field-news-source-type-tid > div.form-item.form-type-checkbox.form-item-field-news-source-type-tid-3 > label")
+
+thinktank_select$clickElement()
+  
+  
+```
+
+```{r}
+page_creator <- function(page_num) {
+  allsides_url <- glue::glue("https://www.allsides.com/media-bias/media-bias-ratings?field_featured_bias_rating_value=All&field_news_source_type_tid%5B1%5D=1&field_news_source_type_tid%5B2%5D=2&field_news_source_type_tid%5B3%5D=3&field_news_bias_nid_1%5B1%5D=1&field_news_bias_nid_1%5B2%5D=2&field_news_bias_nid_1%5B3%5D=3&title=&page={page_num}")
+}
+
+get_bias <- function(allsides_url) {
+ allsides_html <- read_html(allsides_url)
+
+media_bias_col <- allsides_html %>% 
+  html_nodes(".views-field-field-bias-image") %>% 
+  html_nodes("a") %>% 
+  html_attr("href")
+
+internal_url <- allsides_html %>% 
+  html_nodes(".source-title") %>% 
+  html_nodes("a") %>% 
+  html_attr("href") %>% 
+  paste0("https://www.allsides.com", .)
+
+final_page <- allsides_html %>% 
+  html_nodes(".views-table") %>% 
+  html_table() %>% 
+  magrittr::extract2(1) %>% 
+  mutate(rating = media_bias_col) %>% 
+  mutate(url = internal_url) %>% 
+  janitor::clean_names() %>% 
+  select(-all_sides_bias_rating, 
+         -what_do_you_think, 
+         agree_disagree = community_feedback_biased_not_normalized,
+         rating) %>% 
+  separate(agree_disagree, into = c("agree", "disagree"), "/") %>% 
+  mutate_at(vars(agree, disagree), readr::parse_number) %>% 
+  mutate(perc_agree = agree/(agree+disagree)) %>% 
+  mutate(rating = str_remove(rating, "/media-bias/")) %>% 
+  mutate(rating_num = case_when(
+    rating == "left" ~ 1,
+    rating == "left-center" ~ 2,
+    rating == "center" ~ 3,
+    rating == "right-center" ~ 4,
+    rating == "right" ~ 5,
+    T ~ NA_real_
+  ))
+
+return(final_page) 
+}
+
+
+allsides_dat <- 0:27 %>% 
+  map_chr(page_creator) %>% 
+  map_dfr(get_bias)
+
+allsides_dat %>% 
+  ggplot(aes(rating_num, perc_agree)) +
+  geom_jitter() +
+  geom_smooth()
+  
+
+allsides_dat %>% 
+  mutate(partisan = case_when(
+    rating_num %in% c(2, 4) ~ "Slightly Partisan",
+    rating_num %in% c(1, 5) ~ "Partisan",
+    rating_num == 3 ~ "Center"
+  )) %>% 
+  drop_na(partisan) %>% 
+  mutate(partisan = fct_relevel(partisan, c("Center", "Slightly Partisan", "Partisan"))) %>% 
+  ggplot(aes(partisan, perc_agree)) +
+  geom_jitter(alpha = 0.4)  +
+  geom_violin(alpha = 0.4) +
+  geom_boxplot(width = 0.2)
+
+```
+
+
+
+## Analysis / Dataviz
+
+```{r, analysis}
+
+allsides_dat %>% 
+  ggplot(aes(rating_num)) +
+  geom_bar()
+
+get_details <- function(url) {
+  news_html <- url %>% 
+  read_html()
+
+type <- news_html %>% 
+  html_nodes("#block-views-news-source-latest-block") %>% 
+  html_nodes("p") %>% 
+  html_text()
+
+list_items <- news_html %>% 
+  html_nodes(".b-list") %>% 
+  html_children() 
+
+checked <- list_items %>% 
+  html_attr("class")
+
+source_data <- list_items %>%
+  html_text() %>% 
+  str_trim() %>% 
+  str_remove_all(":") %>% 
+  snakecase::to_snake_case() %>% 
+  ifelse(str_detect(., "confidence_level"), "confidence_level", .) %>% 
+  ifelse(str_detect(., "blind_survey"), "blind_survey", .) %>% 
+  ifelse(str_detect(., "third_party_analysis"), "third_party_analysis", .) %>% 
+  ifelse(str_detect(., "independent_research"), "independent_research", .) %>% 
+  ifelse(str_detect(., "editorial_review"), "editorial_review", .) %>% 
+  ifelse(str_detect(., "community_feedback"), "community_feedback", .) %>% 
+  tibble(names = .) %>% 
+  mutate(checkmarks = checked) %>% 
+  mutate(checkmarks =  case_when(
+    checkmarks == "na" ~ NA_character_,
+    checkmarks == "checked0" ~ "0",
+    checkmarks == "checked1" ~ "1",
+    T ~ checkmarks
+  )) %>% 
+  data.table::transpose() %>% 
+  janitor::row_to_names(1) 
+
+
+
+ info_dat <- tibble(url = url, type = type) %>% 
+   bind_cols(source_data)
+
+ 
+ social_media_box <- news_html %>% 
+  html_nodes("body > div.full-news-source > div > div > div.span4 > div > ul") 
+ 
+ if (length(social_media_box) == 0){
+   return(info_dat)
+ }
+ 
+final_box <- social_media_box %>% 
+  html_nodes("a") %>% 
+  html_attr("href") %>% 
+  keep(~str_detect(.x, "facebook|twitter|wiki")) 
+
+ if (length(final_box) == 0){
+   return(info_dat)
+ }
+
+social_media_dat <- final_box %>% 
+  enframe() %>% 
+  mutate(website = case_when(
+    str_detect(value, "facebook") ~ "facebook",
+    str_detect(value, "twitter") ~ "twitter",
+    str_detect(value, "wiki") ~ "wiki"
+  )) %>% 
+  select(website, value) %>% 
+  data.table::transpose() %>%
+  janitor::row_to_names(1)
+
+info_dat <- info_dat %>% 
+  bind_cols(social_media_dat)
+
+return(info_dat)
+}
+
+get_details_safe <- safely(get_details)
+
+details_dat <- allsides_dat$url %>% 
+  map(get_details_safe)
+
+details_dat %>% 
+  map_dfr("error")
+
+details_final <- details_dat %>% 
+  map_dfr("result") %>% 
+  select(-facebook1)
+
+
+# allsides_dat %>% 
+#   left_join(details_final) %>% 
+#   ggplot(aes(rating_num, color = type)) +
+#   geom_density() 
+
+allsides_data <- allsides_dat %>%
+  left_join(details_final) %>% 
+  mutate(screen_name = str_remove_all(twitter, "https://twitter.com/|http://twitter.com/|@|\\?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor|\\?ref_src=twsrc%5Etfw|\\?ref_src=twsrcgoogletwcampserptwgrauthor|\\?lang=en|\\?|\\/") %>% str_trim)
+
+save_it(allsides_data)
+
+write_csv(path = "data/allsides_data.csv",x = allsides_data)
+```
+
+
+
+## Conclusion
