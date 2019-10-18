@@ -50,7 +50,8 @@ The dataset looks like this:
   - `news_source`: Rated entity
   - `rating`: AllSides Rating (left, left-center, center, right-center,
     right, allsides)
-  - `rating_num`: Same as `rating` but numeric
+  - `rating_num`: Same as `rating` but numeric (from left to right,
+    excluding “allsides” rating)
   - `type`: News entity type (can be news media, author or think
     tank/policy group)
   - `agree`: Number of people who agree with the rating
@@ -77,24 +78,23 @@ Either Download data from GitHub Repo like this:
 allsides_data <- readr::read_csv("https://raw.githubusercontent.com/favstats/AllSideR/master/data/allsides_data.csv")
 
 allsides_data
-#> # A tibble: 547 x 18
-#>    news_source agree disagree rating url   perc_agree rating_num type 
-#>    <chr>       <dbl>    <dbl> <chr>  <chr>      <dbl>      <dbl> <chr>
-#>  1 AARP         1404     2343 center http…      0.375          3 Thin…
-#>  2 ABC News    13793     9409 left-… http…      0.594          2 News…
-#>  3 Abridge Ne…    31       17 allsi… http…      0.646         NA News…
-#>  4 Accuracy i…   743      444 right  http…      0.626          5 Thin…
-#>  5 ACLU         1272     1697 left-… http…      0.428          2 Thin…
-#>  6 AJ+            13        5 left   http…      0.722          1 News…
-#>  7 Al Cardenas   353      238 right  http…      0.597          5 Auth…
-#>  8 Al Jazeera   3707     6138 left-… http…      0.377          2 News…
-#>  9 AllSides     3301     1308 allsi… http…      0.716         NA News…
-#> 10 AllSides C…  2142     1273 allsi… http…      0.627         NA News…
-#> # … with 537 more rows, and 10 more variables: editorial_review <chr>,
-#> #   community_feedback <dbl>, blind_survey <dbl>,
-#> #   third_party_analysis <dbl>, independent_research <dbl>,
-#> #   confidence_level <chr>, twitter <chr>, wiki <chr>, facebook <chr>,
-#> #   screen_name <chr>
+#> # A tibble: 547 x 17
+#>    news_source rating rating_num type  agree disagree perc_agree url  
+#>    <chr>       <chr>       <dbl> <chr> <dbl>    <dbl>      <dbl> <chr>
+#>  1 AARP        center          3 Thin…  1404     2343      0.375 http…
+#>  2 ABC News    left-…          2 News… 13793     9409      0.594 http…
+#>  3 Abridge Ne… allsi…         NA News…    31       17      0.646 http…
+#>  4 Accuracy i… right           5 Thin…   743      444      0.626 http…
+#>  5 ACLU        left-…          2 Thin…  1272     1697      0.428 http…
+#>  6 AJ+         left            1 News…    13        5      0.722 http…
+#>  7 Al Cardenas right           5 Auth…   353      238      0.597 http…
+#>  8 Al Jazeera  left-…          2 News…  3707     6138      0.377 http…
+#>  9 AllSides    allsi…         NA News…  3301     1308      0.716 http…
+#> 10 AllSides C… allsi…         NA News…  2142     1273      0.627 http…
+#> # … with 537 more rows, and 9 more variables: editorial_review <chr>,
+#> #   blind_survey <dbl>, third_party_analysis <dbl>,
+#> #   independent_research <dbl>, confidence_level <chr>, twitter <chr>,
+#> #   wiki <chr>, facebook <chr>, screen_name <chr>
 ```
 
 Or install package and use it from there:
@@ -108,21 +108,26 @@ AllSideR::allsides_data
 
 ## Example Plots
 
+How does rating relate to agreement of the rating?
+
 ``` r
 allsides_data %>% 
-  ggplot(aes(rating_num, perc_agree)) +
+  ggplot(aes(rating_num, perc_agree*100)) +
   geom_jitter() +
-  geom_smooth()
+  geom_smooth() +
+  labs(x = "AllSides Media Bias Rating (Left to Right)", y = "% Agree",
+       title = "AllSides Media Bias Rating X Agreement with Rating",
+       caption = "Source: AllSides.com") +
+  ggrepel::geom_text_repel(data = allsides_data %>% filter(perc_agree*100 > 80, rating_num %in% c(1:5)), 
+                           aes(label = news_source)) +
+  theme_minimal()
 ```
 
 ![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-People agree more on bias of partisan media.
+People agree more on the bias of partisan media.
 
 ``` r
-
-  
-
 allsides_data %>% 
   mutate(partisan = case_when(
     rating_num %in% c(2, 4) ~ "Slightly Partisan",
@@ -131,20 +136,32 @@ allsides_data %>%
   )) %>% 
   drop_na(partisan) %>% 
   mutate(partisan = fct_relevel(partisan, c("Center", "Slightly Partisan", "Partisan"))) %>% 
-  ggplot(aes(partisan, perc_agree)) +
+  ggplot(aes(partisan, perc_agree*100)) +
   geom_jitter(alpha = 0.4)  +
   geom_violin(alpha = 0.4) +
-  geom_boxplot(width = 0.2)
+  geom_boxplot(width = 0.2)  +
+  labs(x = "AllSides Media Bias Rating", y = "% Agree",
+       title = "AllSides Media Bias Rating X Agreement with Rating",
+       caption = "Source: AllSides.com") +
+  theme_minimal()
 ```
 
 ![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
+Finally, let’s take a look at the distribution of bias by source `type`.
+
 ``` r
 allsides_data %>%
   ggplot(aes(rating_num, fill = type)) +
-  geom_density(alpha = .4)
+  geom_density(alpha = .3) +
+  theme_minimal() +
+  theme(legend.position = "bottom")  +
+  labs(x = "AllSides Media Bias Rating (Left to Right)", y = "Density",
+       title = "AllSides Media Bias Rating",
+       caption = "Source: AllSides.com")  
 ```
 
 ![](README_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
-Lacks of right-wing media is filled by “Authors”?
+Lack of right-wing media is filled by “Author” category. Would be worth
+investigating.

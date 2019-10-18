@@ -11,7 +11,9 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   message = F,
-  warning = F
+  warning = F,
+  fig.width = 8,
+  fig.height = 8
 )
 
 library(tidyverse)
@@ -46,7 +48,7 @@ The dataset looks like this:
 
 + `news_source`: Rated entity 
 + `rating`: AllSides Rating (left, left-center, center, right-center, right, allsides)
-+ `rating_num`: Same as `rating` but numeric
++ `rating_num`: Same as `rating` but numeric (from left to right, excluding "allsides" rating)
 + `type`: News entity type (can be news media, author or think tank/policy group)
 + `agree`: Number of people who agree with the rating
 + `disagree`: Number of people who disagree with the rating
@@ -87,20 +89,25 @@ AllSideR::allsides_data
 
 ## Example Plots
 
+How does rating relate to agreement of the rating?
+
 
 ```{r}
 allsides_data %>% 
-  ggplot(aes(rating_num, perc_agree)) +
+  ggplot(aes(rating_num, perc_agree*100)) +
   geom_jitter() +
-  geom_smooth()
+  geom_smooth() +
+  labs(x = "AllSides Media Bias Rating (Left to Right)", y = "% Agree",
+       title = "AllSides Media Bias Rating X Agreement with Rating",
+       caption = "Source: AllSides.com") +
+  ggrepel::geom_text_repel(data = allsides_data %>% filter(perc_agree*100 > 80, rating_num %in% c(1:5)), 
+                           aes(label = news_source)) +
+  theme_minimal()
 ```
 
-People agree more on bias of partisan media.
+People agree more on the bias of partisan media.
 
 ```{r}
-
-  
-
 allsides_data %>% 
   mutate(partisan = case_when(
     rating_num %in% c(2, 4) ~ "Slightly Partisan",
@@ -109,16 +116,27 @@ allsides_data %>%
   )) %>% 
   drop_na(partisan) %>% 
   mutate(partisan = fct_relevel(partisan, c("Center", "Slightly Partisan", "Partisan"))) %>% 
-  ggplot(aes(partisan, perc_agree)) +
+  ggplot(aes(partisan, perc_agree*100)) +
   geom_jitter(alpha = 0.4)  +
   geom_violin(alpha = 0.4) +
-  geom_boxplot(width = 0.2)
+  geom_boxplot(width = 0.2)  +
+  labs(x = "AllSides Media Bias Rating", y = "% Agree",
+       title = "AllSides Media Bias Rating X Agreement with Rating",
+       caption = "Source: AllSides.com") +
+  theme_minimal()
 ```
+
+Finally, let's take a look at the distribution of bias by source `type`.
 
 ```{r}
 allsides_data %>%
   ggplot(aes(rating_num, fill = type)) +
-  geom_density(alpha = .4)
+  geom_density(alpha = .3) +
+  theme_minimal() +
+  theme(legend.position = "bottom")  +
+  labs(x = "AllSides Media Bias Rating (Left to Right)", y = "Density",
+       title = "AllSides Media Bias Rating",
+       caption = "Source: AllSides.com")  
 ```
 
-Lacks of right-wing media is filled by "Authors"?
+Lack of right-wing media is filled by "Author" category. Would be worth investigating.
